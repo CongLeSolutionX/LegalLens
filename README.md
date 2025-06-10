@@ -6,25 +6,27 @@
 
 Copyright (c) 2025 Cong Le. All Rights Reserved.
 
+----
+
 > ⚠️🏗️🚧🦺🧱🪵🪨🪚🛠️👷
 > 
 > This is a working draft in progress
 > 
 
 <div align="center">
-  <table>
+  <table style="border: none">
     <tr>
-      <td style="vertical-align: middle; padding-right: 20px;">
+      <td align="center", style="border: none">
         <img alt="Loading..." src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGNrcGRpOTB0aWdpbnhlbmpjdnZra2xsYXQ5eWwwNG9qZmltbnljYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SCt3Miv6ugvSg/giphy.gif"/>
         <br/>
         <em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
       </td>
-      <td style="vertical-align: middle; padding-left: 20px;">
+      <td align="center", border="none">
         <blockquote>
-          <p>"If you understood all the world's rules,<br/>
+          "If you understood all the world's rules,<br/>
           would you break them<br/>
           or<br/>
-          create new ones....?"</p>
+          create new ones....?"
         </blockquote>
       </td>
     </tr>
@@ -65,7 +67,6 @@ flowchart LR
     animatingEdge@{ animate: true }
 
 ```
-
 
 -----
 
