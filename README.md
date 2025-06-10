@@ -37,7 +37,7 @@ config:
   }
 }%%
 flowchart LR
-    My_Meme@{ img: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnd0dzk0N3kyaThnZnhja293MDd1OXJoNnBjYXF5MTlib2FzMGtzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SCt3Miv6ugvSg/giphy.gif", label: "....?", pos: "b", w: 200, h: 150, constraint: "on" }
+    My_Meme@{ img: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1ub2c4bWhxYW9ieGJ6bzJ3cTMwM2hvY252anFocmo1OG5tbXF1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5iWX6XFTndU0YP0Yut/giphy.gif", label: "....?", pos: "b", w: 200, h: 150, constraint: "on" }
 
 Closing_quote@{ shape: braces, label: "If you understood all the world's rules,<br/> would you break them <br/>or<br/> create new ones....?" }
 My_Meme ~~~ Closing_quote
