@@ -144,9 +144,20 @@ config:
 %%%%%%%% Mermaid version v11.4.1-b.14
 %%{
   init: {
+    'fontFamily': 'Luminari, American Typewriter, monospace',
+    'logLevel': 'fatal',
+    'mindmap': {
+	    'nodeAlign': 'center',
+	    'padding': 20
+    },
     'themeVariables': {
-      'fontSize': '25px',
-      'fontFamily': 'Luminari'
+      'primaryColor': '#FC82',
+      'primaryTextColor': '#F8B229',
+      'primaryBorderColor': '#27AE60',
+      'secondaryColor': '#EBF3',
+      'secondaryTextColor': '#6C3483',
+      'secondaryBorderColor': '#A569BD',
+      'fontSize': '20px'
     }
   }
 }%%
