@@ -6,20 +6,30 @@
 
 Copyright (c) 2025 Cong Le. All Rights Reserved.
 
-
 > ⚠️🏗️🚧🦺🧱🪵🪨🪚🛠️👷
 > 
 > This is a working draft in progress
 > 
 
 <div align="center">
-
-![Loading...](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGNrcGRpOTB0aWdpbnhlbmpjdnZra2xsYXQ5eWwwNG9qZmltbnljYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SCt3Miv6ugvSg/giphy.gif)
-<br/>
-*gif image is provided by [Giphy](https://giphy.com)*
-
+  <table>
+    <tr>
+      <td style="vertical-align: middle; padding-right: 20px;">
+        <img alt="Loading..." src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGNrcGRpOTB0aWdpbnhlbmpjdnZra2xsYXQ5eWwwNG9qZmltbnljYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SCt3Miv6ugvSg/giphy.gif"/>
+        <br/>
+        <em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+      </td>
+      <td style="vertical-align: middle; padding-left: 20px;">
+        <blockquote>
+          <p>"If you understood all the world's rules,<br/>
+          would you break them<br/>
+          or<br/>
+          create new ones....?"</p>
+        </blockquote>
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 ```mermaid
 ---
@@ -49,16 +59,13 @@ config:
 }%%
 flowchart LR
     My_Meme@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-questions-magnifying-glass-tangled-lines-bubble-thought.png", label: "....?", pos: "b", w: 200, h: 150, constraint: "on" }
+    Link_to_my_profile{{"<a href='https://github.com/CongLeSolutionX' target='_blank'>Click here if you care about my profile</a>"}}
 
-Closing_quote@{ shape: braces, label: "If you understood all the world's rules,<br/> would you break them <br/>or<br/> create new ones....?" }
-My_Meme ~~~ Closing_quote
-Link_to_my_profile{{"<a href='https://github.com/CongLeSolutionX' target='_blank'>Click here if you care about my profile</a>"}}
-
-Closing_quote ~~~ My_Meme
-My_Meme animatingEdge@--> Link_to_my_profile
-animatingEdge@{ animate: true }
+    My_Meme animatingEdge@--> Link_to_my_profile
+    animatingEdge@{ animate: true }
 
 ```
+
 
 -----
 
