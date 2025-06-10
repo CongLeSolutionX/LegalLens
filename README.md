@@ -11,14 +11,18 @@ Copyright (c) 2025 Cong Le. All Rights Reserved.
 > 
 > This is a working draft in progress
 > 
-> ![Loading...](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGNrcGRpOTB0aWdpbnhlbmpjdnZra2xsYXQ5eWwwNG9qZmltbnljYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SCt3Miv6ugvSg/giphy.gif)
->
+
+<div align="center">
+
+![Loading...](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGNrcGRpOTB0aWdpbnhlbmpjdnZra2xsYXQ5eWwwNG9qZmltbnljYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SCt3Miv6ugvSg/giphy.gif)
 > gif image is provided by [Giphy](https://giphy.com)
-> 
+
+</div>
+
 
 ```mermaid
 ---
-title: "CongLeSolutionX"
+title: "✍️...🤔❓🤔...🖊️"
 author: "Cong Le"
 version: "1.0"
 license(s): "MIT, CC BY-SA 4.0"
