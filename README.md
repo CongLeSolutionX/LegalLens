@@ -164,7 +164,7 @@ config:
 mindmap
     root)"Legal & Regulatory Issues in Tech"(
         Data_Privacy_and_Protection))"Data Privacy and Protection"((
-            Core_Regulations
+            Core_Regulations{{"Core Regulations"}}
                 GDPR_(EU/EEA)
                     Data_Subject_Rights(Access, Rectification, Erasure, Restriction, Portability, Object, Automated Decision-Making)
                     Lawful_Basis_for_Processing(Consent, Contract, Legal Obligation, Vital Interests, Public Task, Legitimate Interests)
@@ -188,7 +188,7 @@ mindmap
                     UK_GDPR
                     Emerging_Laws_("Emerging_Laws:<br/>e.g., India DPDPA")
                     Visualizations(Comparative Analysis Charts, Jurisdictional Scope Diagrams)
-            Fundamental_Concepts
+            Fundamental_Concepts{{"Fundamental Concepts"}}
                 Personal_Data_vs_PII(Definitions, Scope, Examples, Sensitive Categories)
                 Data_Lifecycle_Management(Collection, Use, Storage, Deletion)
                 Data_Minimization_&_Purpose_Limitation(Principles, Implementation Techniques)
@@ -198,7 +198,7 @@ mindmap
                 Cross_Border_Transfer_Mechanisms(Detailed Look at SCCs, BCRs, Adequacy)
                 Anonymization_vs_Pseudonymization(Techniques, Legal Status, Re-identification Risk)
                 Privacy_by_Design_&_Default(Integrating Privacy into Development Lifecycles)
-            Technology-Specific_Issues
+            Technology_Specific_Issues{{"Technology-Specific Issues"}}
                 Cookies_&_Online_Tracking
                     Cookie_Types(First/Third-Party, Session/Persistent, Essential/Non-Essential)
                     Consent_Banners_&_Mechanisms(CMP Design, Opt-In vs. Opt-Out Rules)
@@ -216,7 +216,7 @@ mindmap
                 Biometric_Data_Processing("Specific Regulations [e.g., BIPA], Consent, Security Standards")
 
         ToS_ToU))"Terms of Service & User Agreements"((
-            Essential_Clauses
+            Essential_Clauses{{"Essential Clauses"}}
                 Service_Description_&_Scope(Permitted Use, Functionality, Limitations)
                 User_Accounts_&_Responsibilities(Registration, Security, Conduct Rules)
                 IP["Intellectual Property - Ownership: Platform IP, User-Generated Content Licenses)"]
@@ -226,43 +226,43 @@ mindmap
                 Modification_of_Terms(Notice Procedures, Acceptance Methods)
                 Acceptable_Use_Policy_AUP("Acceptable Use Policy - AUP: Specific Prohibitions, Enforcement Actions")
                 Payment_Terms_&_Subscriptions("Payment_Terms_&_Subscriptions: Fees, Billing Cycles, Refunds, Auto-Renewal")
-            Agreement_Types
+            Agreement_Types{{"Agreement Types"}}
                 General_Website/App_ToS
                 End-User_License_Agreements_EULAs("End-User_License_Agreements_EULAs For Software")
                 Service_Level_Agreements_SLAs("Service_Level_Agreements_SLAs For B2B Services")
-            Key_Legal_Considerations
+            Key_Legal_Considerations{{"Key Legal Considerations"}}
                 Contract_Formation_&_Enforceability(Clickwrap, Browsewrap validity)
                 Clarity_&_Readability(Plain Language Requirements, Avoiding Ambiguity)
                 Unfair_Contract_Terms_Legislation(Consumer Protection Laws)
 
         Software_and_Content_Licensing))"Software & Content Licensing"((
-            Open_Source_Software_OSS_Licenses
+            Open_Source_Software_OSS_Licenses{{"Open-Source Software OSS Licenses"}}
                 Permissive_Licenses(MIT, Apache 2.0, BSD family)
                     Key_Permissions_&_Conditions(Attribution, Warranty Disclaimer)
                 Copyleft_Licenses("GNU GPL family [v2, v3, LGPL, AGPL]")
                     Reciprocity/Share-Alike_Obligations, Source Code Disclosure
                 Creative_Commons_CC_Licenses(For Content: BY, SA, NC, ND combinations)
                 Other_OSS_Licenses(MPL, EPL, etc.)
-            Proprietary_&_Commercial_Licenses
+            Proprietary_and_Commercial_Licenses{{"Proprietary and Commercial Licenses"}}
                 Common_Models(Perpetual, Subscription, Per-User, Site License)
                 EULAs(Restrictions on Use, Reverse Engineering, Transferability)
-            Core_Licensing_Concepts
+            Core_Licensing_Concepts{{"Core Licensing Concepts"}}
                 Copyright_Basics(Exclusive Rights, Fair Use/Dealing)
                 Patent_Grants_in_Licenses(Express vs. Implied Grants, Defensive Termination)
                 License_Compatibility_&_Interaction(Combining Code Under Different Licenses)
                 Compliance_&_Audits(Tracking Dependencies, Obligations Management)
                 Contributor_License_Agreements_CLAs
-            Common_Issues
+            Common_Issues{{"Common Issues"}}
                 License_Violation_Consequences(Copyright Infringement, Contract Breach)
                 OSS_Security_Management(Vulnerability Patching, SBOMs)
 
         Intellectual_Property))"Intellectual Property<br/>(IP)"((
-            Major_IP_Types
+            Major_IP_Types{{"Major IP Types"}}
                 Copyright(Protecting Original Works: Code, UI, Content)
                 Patents(Protecting Inventions: Algorithms, Processes, Systems)
                 Trademarks(Protecting Brands: Names, Logos, Slogans)
                 Trade_Secrets("Protecting Confidential Information: Formulas, Source Code<br>[if kept secret]")
-            Tech-Specific_IP_Challenges
+            Tech_Specific_IP_Challenges{{"Tech-Specific IP Challenges"}}
                 Software_Patentability_Debates
                 IP_Issues_in_OSS(Ownership, Contributions, Enforcement)
                 Digital_Millennium_Copyright_Act_DMCA("Digital_Millennium_Copyright_Act_DMCA: Takedown Notices, Safe Harbors")
