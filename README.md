@@ -148,7 +148,7 @@ config:
     'logLevel': 'fatal',
     'mindmap': {
 	    'nodeAlign': 'center',
-	    'padding': 20
+	    'padding': 25
     },
     'themeVariables': {
       'primaryColor': '#FC82',
@@ -157,7 +157,7 @@ config:
       'secondaryColor': '#EBF3',
       'secondaryTextColor': '#6C3483',
       'secondaryBorderColor': '#A569BD',
-      'fontSize': '20px'
+      'fontSize': '25px'
     }
   }
 }%%
