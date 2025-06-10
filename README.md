@@ -1,4 +1,4 @@
-# LegalLens: Visualizing the Landscape of Technology Law & Policy
+# **LegalLens**: <br/>*Visualizing the Landscape of Technology Law & Policy*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Content License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](LICENSE-CC-BY) [![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/CongLeSolutionX/LegalLens/)
 
@@ -151,8 +151,8 @@ config:
   }
 }%%
 mindmap
-    root((Legal & Regulatory Issues in Tech))
-        Data_Privacy_and_Protection
+    root)"Legal & Regulatory Issues in Tech"(
+        Data_Privacy_and_Protection))"Data Privacy and Protection"((
             Core_Regulations
                 GDPR_(EU/EEA)
                     Data_Subject_Rights(Access, Rectification, Erasure, Restriction, Portability, Object, Automated Decision-Making)
@@ -204,7 +204,7 @@ mindmap
                 Cloud_Computing_Agreements("Data Residency & Sovereignty, Security Responsibility Models<br/>[Shared Responsibility]")
                 Biometric_Data_Processing("Specific Regulations [e.g., BIPA], Consent, Security Standards")
 
-        ToS_ToU["Terms of Service & User Agreements "]
+        ToS_ToU))"Terms of Service & User Agreements"((
             Essential_Clauses
                 Service_Description_&_Scope(Permitted Use, Functionality, Limitations)
                 User_Accounts_&_Responsibilities(Registration, Security, Conduct Rules)
@@ -224,7 +224,7 @@ mindmap
                 Clarity_&_Readability(Plain Language Requirements, Avoiding Ambiguity)
                 Unfair_Contract_Terms_Legislation(Consumer Protection Laws)
 
-        Software_&_Content_Licensing
+        Software_and_Content_Licensing))"Software & Content Licensing"((
             Open_Source_Software_OSS_Licenses
                 Permissive_Licenses(MIT, Apache 2.0, BSD family)
                     Key_Permissions_&_Conditions(Attribution, Warranty Disclaimer)
@@ -245,7 +245,7 @@ mindmap
                 License_Violation_Consequences(Copyright Infringement, Contract Breach)
                 OSS_Security_Management(Vulnerability Patching, SBOMs)
 
-        Intellectual_Property_IP
+        Intellectual_Property))"Intellectual Property<br/>(IP)"((
             Major_IP_Types
                 Copyright(Protecting Original Works: Code, UI, Content)
                 Patents(Protecting Inventions: Algorithms, Processes, Systems)
