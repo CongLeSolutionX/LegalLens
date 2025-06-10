@@ -259,29 +259,29 @@ mindmap
                 Trade_Secret_Protection_in_Collaborative_Environments
                 Digital_Rights_Management_(DRM)
 
-        E-commerce_&_Online_Platforms
+        E_commerce_and_Online_Platforms))"E-commerce & Online Platforms"((
             Consumer_Protection_Laws(Disclosure Requirements, Cooling-Off Periods)
             Payment_Card_Industry_Data_Security_Standard_(PCI_DSS)
             Tax_Obligations_for_Online_Sales(Nexus, Marketplace Facilitator Laws)
             Platform_Liability_(e.g., Section_230_CDA_US,_Digital_Services_Act_EU)
 
-        Cybersecurity_Law_&_Standards
+        Cybersecurity_Law_and_Standards))"Cybersecurity_Law_and_Standards"((
             Key_Frameworks(NIST Cybersecurity Framework, ISO 27001/27002, SOC 2)
             Incident_Response_&_Reporting_Obligations(Legal Requirements for Breach Notification)
             Vulnerability_Disclosure_Programs_(VDPs)
             Data_Encryption_Standards_&_Best_Practices
 
-        Accessibility_(A11y)
+        Accessibility_A11y))"Accessibility_A11y"((
             WCAG("Web Content Accessibility Guidelines: Global Standard")
             ADA(Americans with Disabilities Act - US: Application to Websites/Apps")
             Section_508_("Section 508: US_Federal")
             EAA("European Accessibility Act")
 
-        Emerging_Legal_Areas
+        Emerging_Legal_Areas))"Emerging_Legal_Areas"((
             AI_Ethics_&_Regulation(Ongoing Developments Worldwide)
             Antitrust_&_Competition_in_Tech_Markets
             Online_Safety_&_Content_Moderation_Laws
-            
+                 
 ```
 
 
