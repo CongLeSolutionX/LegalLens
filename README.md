@@ -68,6 +68,15 @@ flowchart LR
 
 ```
 
+
+<!-- 
+<img alt="Loading..." src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBnMmh5a3VrOG92cjR5N3FneXphM2M5dTNtOXFxc2FnNDZjdXQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEv7v51FEI3L54jpr/giphy.gif"/>
+
+<img alt="Loading..." src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJnbWV1MTJkNnoxbXY1MDY4b3NwZTZhc2k0ZHNzanJ5eWdhMGFzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gNzDiRiZS3SXS/giphy.gif"/>
+
+-->
+
+
 -----
 
 **Welcome to LegalLens!**
