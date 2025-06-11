@@ -1,6 +1,6 @@
 # **LegalLens**: <br/>*Visualizing the Landscape of Technology Law & Policy*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Content License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](LICENSE-CC-BY) [![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/CongLeSolutionX/LegalLens/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) [![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/CongLeSolutionX/LegalLens/)
 
 ---
 
@@ -521,7 +521,8 @@ We are working on the setup for this section. TBD.
 This project utilizes a dual-licensing approach:
 
 *   **Code & Diagram Sources:** All `Mermaid.js` source files (`.mmd`) and any other code files are licensed under the [**MIT License**](LICENSE). This allows for broad reuse and modification of the visualization code itself.
-*   **Documentation & Explanatory Text:** All textual content, including `README.md` files and explanations accompanying the diagrams, is licensed under the [**Creative Commons Attribution 4.0 International License (CC BY 4.0)**](LICENSE-CC-BY). This requires attribution if you reuse or adapt the textual content.
+*   **Documentation & Explanatory Text:** All textual content, including `README.md` files and explanations accompanying the diagrams, is licensed under the [**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA-4.0)**](LICENSE-CC-BY-SA-4.0). This requires attribution if you reuse or adapt the textual content.
+
 
 ---
 
