@@ -584,6 +584,16 @@ This project utilizes a dual-licensing approach:
 ----
 
 
+<div align="center">
+	<img alt="Loading..." src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnMyZGVnY2JyMWRlNGs5ZjJtM25rdnJpdndraWVydHZtdDN3cjFhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"/>
+	<br/>
+	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+ 
+</div>
+
+----
+
+
 ```mermaid
 ---
 title: "❓...CongLeSolutionX....❓"
