@@ -74,7 +74,14 @@ flowchart LR
 
 <img alt="Loading..." src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJnbWV1MTJkNnoxbXY1MDY4b3NwZTZhc2k0ZHNzanJ5eWdhMGFzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gNzDiRiZS3SXS/giphy.gif"/>
 
+
+<img alt="Loading..." src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtnMnpjYmx3ODM3ajV2djZvang0cDQyZ3k4ZHhmZWRqem9rMTg2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oNG0BcTCRvgeIsyAiE/giphy.gif"/>
+
+
 -->
+
+
+
 
 
 -----
@@ -116,6 +123,13 @@ Whether you are a developer ensuring compliance, a user seeking to understand yo
 ---
 
 ## The Challenge & Our Approach
+
+<div align="center">
+	<img alt="Loading..." src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJnbWV1MTJkNnoxbXY1MDY4b3NwZTZhc2k0ZHNzanJ5eWdhMGFzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gNzDiRiZS3SXS/giphy.gif"/>
+	<br/>
+	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+ 
+</div>
 
 Traditional legal documents, while precise, are often characterized by dense text, specialized jargon, and complex sentence structures, making them challenging to parse quickly and accurately. `LegalLens` addresses this by offering a visual interpretation layer, designed to help you:
 
