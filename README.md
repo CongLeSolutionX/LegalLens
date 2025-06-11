@@ -557,6 +557,14 @@ We are working on the setup for this section. TBD.
 
 ## 🚀 Project Current Activities
 
+
+<div align="center">
+	<img alt="Loading..." src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlkMGEyMnltbXYxMDllcXB5ajAwdWIybnd0YTdzMHR1OGFsaTBmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Hb9ZOcpNPv4H4Tgje/giphy.gif"/>
+	<br/>
+	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+</div>
+
+
 <div align="left"><a name="project-current-activities"></a>
 
 <details open>
