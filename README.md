@@ -89,16 +89,20 @@ Whether you are a developer ensuring compliance, a user seeking to understand yo
 
 ## Table of Contents
 
-- [The Challenge & Our Approach](#the-challenge--our-approach)
-- [Legal & Regulatory Focus Areas](#legal--regulatory-focus-areas)
-- [Repository Structure](#repository-structure)
-- [Example Visualization: GDPR Lawful Basis Check](#example-visualization-gdpr-lawful-basis-check)
-- [Getting Started](#getting-started)
-- [How to Use LegalLens](#how-to-use-legallens)
-- [Contributing](#contributing)
-- [License](#license)
-- [**Important Disclaimer**](#important-disclaimer)
-- [Markdown and Visualization Resources](#markdown-and-visualization-resources)
+- [**LegalLens**: *Visualizing the Landscape of Technology Law \& Policy*](#legallens-visualizing-the-landscape-of-technology-law--policy)
+  - [Table of Contents](#table-of-contents)
+  - [The Challenge \& Our Approach](#the-challenge--our-approach)
+  - [Legal \& Regulatory Focus Areas](#legal--regulatory-focus-areas)
+  - [Repository Structure](#repository-structure)
+  - [Example Visualization: GDPR Lawful Basis Check](#example-visualization-gdpr-lawful-basis-check)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Cloning the Repository (Optional)](#cloning-the-repository-optional)
+  - [How to Use LegalLens](#how-to-use-legallens)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [**Important Disclaimer**](#important-disclaimer)
+  - [Markdown and Visualization Resources](#markdown-and-visualization-resources)
 
 ---
 
@@ -389,8 +393,8 @@ config:
     'graph': { 'htmlLabels': false, 'curve': 'linear' },
     'fontFamily': 'Monospace',
     'themeVariables': {
-      'primaryColor': '#BEF',
-      'primaryTextColor': '#55ff',
+      'primaryColor': '#22BB',
+      'primaryTextColor': '#F8B229',
       'primaryBorderColor': '#7c2',
       'lineColor': '#F8B229',
       'secondaryColor': '#EE2',
