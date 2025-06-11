@@ -397,7 +397,7 @@ config:
       'primaryTextColor': '#F8B229',
       'primaryBorderColor': '#7c2',
       'lineColor': '#F8B229',
-      'secondaryColor': '#EE2',
+      'secondaryColor': '#f9f3',
       'tertiaryColor': '#fff',
       'stroke':'#3323',
       'stroke-width': '0.5px'
