@@ -2,8 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Content License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](LICENSE-CC-BY) [![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/CongLeSolutionX/LegalLens/)
 
----
-
 Copyright (c) 2025 Cong Le. All Rights Reserved.
 
 ----
