@@ -72,9 +72,6 @@ flowchart LR
 <!-- 
 <img alt="Loading..." src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBnMmh5a3VrOG92cjR5N3FneXphM2M5dTNtOXFxc2FnNDZjdXQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEv7v51FEI3L54jpr/giphy.gif"/>
 
-<img alt="Loading..." src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJnbWV1MTJkNnoxbXY1MDY4b3NwZTZhc2k0ZHNzanJ5eWdhMGFzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gNzDiRiZS3SXS/giphy.gif"/>
-
-
 <img alt="Loading..." src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtnMnpjYmx3ODM3ajV2djZvang0cDQyZ3k4ZHhmZWRqem9rMTg2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oNG0BcTCRvgeIsyAiE/giphy.gif"/>
 
 
@@ -141,7 +138,13 @@ Traditional legal documents, while precise, are often characterized by dense tex
 *   **Facilitate Communication:** Use the diagrams as aids for explaining complex legal concepts to diverse audiences, including non-legal teams.
 *   **Support Compliance Efforts:** Provide visual checklists and process flows related to regulatory requirements.
 
-**Our Method:**
+### Our Method
+
+<div align="center">
+	<img alt="Loading..." src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtnMnpjYmx3ODM3ajV2djZvang0cDQyZ3k4ZHhmZWRqem9rMTg2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oNG0BcTCRvgeIsyAiE/giphy.gif"/>
+	<br/>
+	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+</div>
 
 1.  **Analyze Source Documents:** We review relevant legal statutes, regulations, standard contract terms, and policy documents.
 2.  **Create Mermaid Diagrams:** We select appropriate diagram types (flowcharts, mind maps, etc.) to best represent the specific legal concept or process.
