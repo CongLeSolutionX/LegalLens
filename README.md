@@ -506,7 +506,6 @@ cd LegalLens
 
 ## How to Use LegalLens
 
-
 <div align="center">
 	<img alt="Loading..." src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk5b3R5bXBtZjRza2h3d2gyb2t2aWd3NGE3ZDhlcWs0bXUydnhzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mSXSC0vivvygw/giphy.gif"/>
 	<br/>
@@ -524,6 +523,14 @@ cd LegalLens
 ---
 
 ## Contributing
+
+<div align="center">
+	<img alt="Loading..." src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzU3Nnp1dTJqNDhjczV2cm0yYmF2azU0MWNrMG42N3gyODgxbHJ0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRzQS5HXcEWM7du/giphy.gif"/>
+	<br/>
+	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+</div>
+
+
 
 Contributions are essential to making `LegalLens` a comprehensive and valuable resource! We welcome additions, corrections, and improvements.
 We are working on the setup for this section. TBD.
