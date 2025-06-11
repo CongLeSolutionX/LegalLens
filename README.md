@@ -506,6 +506,14 @@ cd LegalLens
 
 ## How to Use LegalLens
 
+
+<div align="center">
+	<img alt="Loading..." src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk5b3R5bXBtZjRza2h3d2gyb2t2aWd3NGE3ZDhlcWs0bXUydnhzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mSXSC0vivvygw/giphy.gif"/>
+	<br/>
+	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+</div>
+
+
 1.  **Browse the Repository:** Navigate the folders based on the legal domain or specific topic you are interested in (e.g., `DataPrivacy/GDPR/`, `SoftwareLicensing/OpenSource/MIT/`).
 2.  **Read the `README.md`:** Each topic's `README.md` file is the primary entry point. It provides the overview, explanations, and embedded visualizations.
 3.  **Analyze the Diagrams:** Study the Mermaid diagrams within the READMEs. Consider the flow, relationships, and key decision points they illustrate.
