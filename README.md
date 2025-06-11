@@ -6,6 +6,7 @@ Copyright (c) 2025 Cong Le. All Rights Reserved.
 
 ----
 
+
 > ⚠️🏗️🚧🦺🧱🪵🪨🪚🛠️👷
 > 
 > This is a working draft in progress
@@ -15,7 +16,7 @@ Copyright (c) 2025 Cong Le. All Rights Reserved.
   <table style="border: none">
     <tr>
       <td align="center", style="border: none">
-        <img alt="Loading..." src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Q2YjN0MHk2Nnk4ZWV5bHkwdDdqZTRxMDRwYmJtNjJwMjR4bGNoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1CNsm9ZkHF0m4/giphy.gif"/>
+        <img alt="Loading..." src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGNrcGRpOTB0aWdpbnhlbmpjdnZra2xsYXQ5eWwwNG9qZmltbnljYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SCt3Miv6ugvSg/giphy.gif"/>
         <br/>
         <em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
       </td>
@@ -65,18 +66,6 @@ flowchart LR
     animatingEdge@{ animate: true }
 
 ```
-
-
-<!-- 
-
-<img alt="Loading..." src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBnMmh5a3VrOG92cjR5N3FneXphM2M5dTNtOXFxc2FnNDZjdXQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEv7v51FEI3L54jpr/giphy.gif"/>
-
-
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Bqcnh1azlhOXc5ZDZwcXFrcWpobW04M2pueTRqMXc1N2Q4d25ndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MgkBTmxt18lGg/giphy.gif
-
-
--->
-
 
 -----
 
