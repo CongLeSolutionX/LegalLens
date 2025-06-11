@@ -26,7 +26,7 @@ Copyright (c) 2025 Cong Le. All Rights Reserved.
           "If you understood all the world's rules,<br/>
           would you break them<br/>
           or<br/>
-          create new ones....?"
+          write new ones....?"
         </blockquote>
       </td>
     </tr>
@@ -576,7 +576,7 @@ flowchart LR
     My_Meme@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-questions-magnifying-glass-tangled-lines-bubble-thought.png", label: "✍️...🤔❓🤔...👨🏼‍💻", pos: "b", w: 200, h: 150, constraint: "on" }
     Link_to_my_profile{{"<a href='https://github.com/CongLeSolutionX' target='_blank'>Click here if you care about my profile</a>"}}
 
-  Closing_quote@{ shape: braces, label: "If you understood all the world's rules,<br/>would you break them<br/>or<br/>create new ones....?"}
+  Closing_quote@{ shape: braces, label: "If you understood all the world's rules,<br/>would you break them<br/>or<br/>write new ones....?"}
     
    Closing_quote ~~~ My_Meme
     
