@@ -68,15 +68,10 @@ flowchart LR
 
 
 <!-- 
+
 <img alt="Loading..." src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBnMmh5a3VrOG92cjR5N3FneXphM2M5dTNtOXFxc2FnNDZjdXQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEv7v51FEI3L54jpr/giphy.gif"/>
 
-<img alt="Loading..." src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtnMnpjYmx3ODM3ajV2djZvang0cDQyZ3k4ZHhmZWRqem9rMTg2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oNG0BcTCRvgeIsyAiE/giphy.gif"/>
-
-
 -->
-
-
-
 
 
 -----
@@ -489,6 +484,13 @@ graph TD
 ---
 
 ## Getting Started
+
+<div align="center">
+	<img alt="Loading..." src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBnMmh5a3VrOG92cjR5N3FneXphM2M5dTNtOXFxc2FnNDZjdXQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEv7v51FEI3L54jpr/giphy.gif"/>
+	<br/>
+	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+</div>
+
 
 ### Prerequisites
 
