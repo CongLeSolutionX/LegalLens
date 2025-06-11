@@ -552,6 +552,32 @@ We are working on the setup for this section. TBD.
 
 *Please adhere to the project's Code of Conduct (to be added).* A more detailed `CONTRIBUTING.md` file with style guides and specific requirements is planned. -->
 
+
+---
+
+## 🚀 Project Current Activities
+
+<div align="left"><a name="project-current-activities"></a>
+
+<details open>
+<summary>Click to show/hide more on recent activities of this project </summary>
+
+> powered by [OSS Insight](https://ossinsight.io)
+<!-- All the diagrams below are made with [OSS Insight](https://ossinsight.io/) -->
+
+| :bar_chart: Widget & Description | :art: Snapshot (Light Mode) |
+|---|---|
+| Active Contributors :technologist: of CongLeSolutionX/LegalLens - Last 28 days | ![Active Contributors of CongLeSolutionX/LegalLens - Last 28 days](https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=946382201&limit=30&image_size=auto&color_scheme=light) <br/> :link: [View Full Report :mag:](https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=946382201&limit=30) |
+| Pushes :arrow_up: and Commits :writing_hand: of CongLeSolutionX/LegalLens | ![Pushes and Commits of CongLeSolutionX/LegalLens](https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=946382201&image_size=auto&color_scheme=light) <br/> :link: [View Full Report :mag:](https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=946382201) |
+| Pull Request Size :straight_ruler: of CongLeSolutionX/LegalLens | ![Pull Request Size of CongLeSolutionX/LegalLens](https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=946382201&image_size=auto&color_scheme=light) <br/> :link: [View Full Report :mag:](https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month?repo_id=946382201) |
+| Pull Request Lifecycle :arrows_counterclockwise: of CongLeSolutionX/LegalLens | ![Pull Request Lifecycle of CongLeSolutionX/LegalLens](https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=946382201&image_size=auto&color_scheme=light) <br/> :link: [View Full Report :mag:](https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged?repo_id=946382201) |
+| Lines of Code Changes :computer::scroll: of CongLeSolutionX/LegalLens | ![Lines of Code Changes of CongLeSolutionX/LegalLens](https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=946382201&image_size=auto&color_scheme=light) <br/> :link: [View Full Report :mag:](https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=946382201) |
+| Commits Time Distribution :alarm_clock::date: of CongLeSolutionX/LegalLens | ![Commits Time Distribution of CongLeSolutionX/LegalLens](https://next.ossinsight.io/widgets/official/analyze-repo-commits-time-distribution/thumbnail.png?repo_id=946382201&period=last_1_year&zone=0&image_size=auto&color_scheme=light) <br/> :link: [View Full Report :mag:](https://next.ossinsight.io/widgets/official/analyze-repo-commits-time-distribution?repo_id=946382201&period=last_1_year&zone=0) | 
+
+</details>
+
+</div>
+
 ---
 
 ## License
