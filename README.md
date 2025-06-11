@@ -586,6 +586,16 @@ We are working on the setup for this section. TBD.
 
 </div>
 
+
+
+<div align="center">
+	<img alt="Loading..." src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVycnpkaWQ4dmg3MnF4Z2ZqMmgzdXB4ZWo3N21mbW5hdXJkcW44aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sk6yL9EGVeAcE/giphy.gif"/>
+	<br/>
+	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+</div>
+
+
+
 ---
 
 ## License
