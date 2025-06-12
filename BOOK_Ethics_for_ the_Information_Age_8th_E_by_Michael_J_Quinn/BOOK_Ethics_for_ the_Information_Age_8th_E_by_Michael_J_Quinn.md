@@ -603,7 +603,7 @@ config:
     }
   }
 }%%
-flowchart TD
+flowchart LR
     S["Daniel Solove's Taxonomy of Privacy <br/>(referencing Ch 5 & 6 Organization)"] --> C("Information Collection")
     S --> P("Information Processing")
     S --> D("Information Dissemination")
