@@ -495,11 +495,11 @@ flowchart LR
         VE["Virtue Ethics (2.10)"] -- "Focus on <br/> CHARACTER & VIRTUES for human flourishing" --> VE_ARISTOTLE{"Aristotelian Virtues"}
     end
 
-    style KANT fill:#aaffaa
-    style ACTU fill:#aaddff
-    style RULEU fill:#aaddff
-    style SCT fill:#ffaaaa
-    style VE fill:#ffffaa
+    style KANT fill:#afa2
+    style ACTU fill:#adf2
+    style RULEU fill:#adf2
+    style SCT fill:#faa2
+    style VE fill:#ffa2
 ```
 
 **Caption for Diagram 5:** This diagram compares the five workable ethical theories identified in Chapter 2.11 of Quinn's textbook, focusing on their distinct approaches to moral decision-making. (Source: Quinn, M. J. (2020). *Ethics for the Information Age* (8th ed.). Pearson. Sections 2.6-2.11.)
