@@ -4,7 +4,8 @@ author: Cong Le
 version: "1.0"
 license(s): MIT, CC BY-SA 4.0
 copyright: Copyright (c) 2025 Cong Le. All Rights Reserved.
-source: https://z-lib.id/book/ethics-for-the-information-age-8th-edition-1-zlibrary
+main source: https://www.pearson.com/en-us/subject-catalog/p/ethics-for-the-information-age/P200000003489/9780135217979
+other source: https://z-lib.id/book/ethics-for-the-information-age-8th-edition-1-zlibrary
 ---
 
 
