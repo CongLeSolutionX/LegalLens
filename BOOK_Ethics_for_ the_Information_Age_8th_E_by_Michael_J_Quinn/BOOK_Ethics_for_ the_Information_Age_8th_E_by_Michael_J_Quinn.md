@@ -672,14 +672,14 @@ config:
   }
 }%%
 flowchart LR
-    A[Specification (8.9.1) <br/> Defining functions, requirements, constraints] --> B(Development (8.9.2) <br/> Producing software to meet specs, design, coding)
-    B --> C(Validation (8.9.3) <br/> Testing software against specs & user needs)
-    C --> D(Evolution (8.9.4) <br/> Modifying software for changing needs)
-    D --> A_loop((Start New Cycle / Maintenance))
-    style A fill:#cceeff
-    style B fill:#cceeff
-    style C fill:#cceeff
-    style D fill:#cceeff
+    A["Specification (8.9.1) <br/> Defining functions, requirements, constraints"] --> B("Development (8.9.2) <br/> Producing software to meet specs, design, coding")
+    B --> C("Validation (8.9.3) <br/> Testing software against specs & user needs")
+    C --> D("Evolution (8.9.4) <br/> Modifying software for changing needs")
+    D --> A_loop(("Start New Cycle / Maintenance"))
+    style A fill:#cef2
+    style B fill:#cef2
+    style C fill:#cef2
+    style D fill:#cef2
 ```
 
 **Caption for Diagram 8:** This flowchart illustrates the four-step software engineering process (Specification, Development, Validation, Evolution) as described in Section 8.9 of Quinn's textbook. It emphasizes the cyclical nature of software development and maintenance. (Source: Quinn, M. J. (2020). *Ethics for the Information Age* (8th ed.). Pearson. Section 8.9.)
