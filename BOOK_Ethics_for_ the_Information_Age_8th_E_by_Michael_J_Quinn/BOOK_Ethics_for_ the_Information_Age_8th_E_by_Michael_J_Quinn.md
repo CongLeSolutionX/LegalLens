@@ -487,6 +487,7 @@ config:
 }%%
 flowchart LR
     subgraph WorkableEthicalTheories["Workable Ethical Theories (Ch 2.11)"]
+	style WorkableEthicalTheories fill:#FE22
         KANT["Kantianism (2.6)"] -- "Focus on <br/> DUTIES & UNIVERSAL RULES" --> K_CI{"Categorical Imperative"}
         ACTU["Act Utilitarianism (2.7)"] -- "Focus on <br/> CONSEQUENCES of specific ACTIONS" --> AU_PU{"Principle of Utility: <br> Maximize overall happiness"}
         RULEU["Rule Utilitarianism (2.8)"] -- "Focus on <br/> CONSEQUENCES of adopting general RULES" --> RU_PU{"Principle of Utility: <br> Rules leading to max happiness"}
