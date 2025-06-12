@@ -47,7 +47,7 @@ This mindmap provides a high-level structure of Chapter 2, highlighting the prog
 title: "Chapter 2 Overview: Journey into Ethical Theories"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   theme: base
@@ -237,7 +237,7 @@ The chapter discusses several ethical theories, which can be broadly categorized
  * title: Categorization of Ethical Theories (Section 2.1.3 and onward)
  * author: Cong Le
  * version: 1.0
- * license(s): MIT, CC BY 4.0
+ * license(s): MIT, CC BY-SA 4.0
  * copyright: Copyright (c) 2025 Cong Le. All Rights Reserved.
  */
 digraph EthicalTheoryCategories {
@@ -448,7 +448,7 @@ Rule Utilitarianism applies the Principle of Utility to moral rules rather than 
  * title: Rule Utilitarianism (Section 2.8)
  * author: Cong Le
  * version: 1.0
- * license(s): MIT, CC BY 4.0
+ * license(s): MIT, CC BY-SA 4.0
  * copyright: Copyright (c) 2025 Cong Le. All Rights Reserved.
  */
 digraph RuleUtilitarianism {
