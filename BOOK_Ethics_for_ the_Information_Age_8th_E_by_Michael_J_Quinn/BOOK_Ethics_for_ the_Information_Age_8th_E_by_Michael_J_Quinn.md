@@ -267,6 +267,7 @@ config:
 }%%
 flowchart TD
     subgraph ConcentricRings["Book Chapters 3-10 Organization"]
+	style ConcentricRings fill:#DD22
         User["💻 Computer User"]
         Ch3["Ch 3: Networked Communications"]
         Ch4["Ch 4: Intellectual Property"]
@@ -286,15 +287,15 @@ flowchart TD
         Ch8 --> Ch9
         Ch9 --> Ch10
     end
-    style User fill:#f9f,stroke:#333,stroke-width:4px
-    style Ch3 fill:#lightgrey
-    style Ch4 fill:#lightgrey
-    style Ch5 fill:#lightgrey
-    style Ch6 fill:#lightgrey
-    style Ch7 fill:#lightgrey
-    style Ch8 fill:#lightgrey
-    style Ch9 fill:#lightgrey
-    style Ch10 fill:#lightgrey
+    style User fill:#f9f2,stroke:#333,stroke-width:4px
+    style Ch3 fill:#22BB
+    style Ch4 fill:#22BB
+    style Ch5 fill:#22BB
+    style Ch6 fill:#22BB
+    style Ch7 fill:#22BB
+    style Ch8 fill:#22BB
+    style Ch9 fill:#22BB
+    style Ch10 fill:#22BB
 
     %% note right of Ch3
     %%    Innermost ring, focusing on
