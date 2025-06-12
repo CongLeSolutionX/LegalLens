@@ -21,9 +21,6 @@ source: https://z-lib.id/book/ethics-for-the-information-age-8th-edition-1-zlibr
 
 ----
 
-
-
-
 # Chapter 4: Intellectual Property – A Visual Exploration
 
 > **Disclaimer:**
@@ -44,7 +41,7 @@ This mindmap details the structure of Chapter 4.
 
 ```mermaid
 ---
-title: "CHANGE_ME_DADDY"
+title: "Chapter 4 Overview: Intellectual Property"
 author: "Cong Le"
 version: "1.0"
 license(s): "MIT, CC BY-SA 4.0"
@@ -223,7 +220,38 @@ mindmap
 Locke's theory forms a basis for understanding property rights, which the chapter then attempts to extend to intellectual property.
 
 ```mermaid
-graph TD
+---
+title: "John Locke's Theory of Property Rights (Sec 4.2.1) 🌳⛏️"
+author: "Cong Le"
+version: "1.0"
+license(s): "MIT, CC BY-SA 4.0"
+copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
+config:
+  layout: elk
+  theme: base
+  look: handDrawn
+---
+%%%%%%%% Mermaid version v11.4.1-b.14
+%%%%%%%% Available curve styles include the following keywords:
+%% basis, bumpX, bumpY, cardinal, catmullRom, linear, monotoneX, monotoneY, natural, step, stepAfter, stepBefore.
+%%{
+  init: {
+    'flowchart': { 'htmlLabels': true, 'curve': 'basis' },
+    'fontFamily': 'American Typewriter, monospace',
+    'logLevel': 'fatal',
+    'themeVariables': {
+      'primaryColor': '#22BB',
+      'primaryTextColor': '#F8B229',
+      'lineColor': '#F8B229',
+      'primaryBorderColor': '#27AE60',
+      'secondaryColor': '#E2F1',
+      'secondaryTextColor': '#6C3483',
+      'secondaryBorderColor': '#A569BD',
+      'fontSize': '20px'
+    }
+  }
+}%%
+flowchart TD
     subgraph Locke_Theory["John Locke's Theory of Property Rights Sec 4.2.1"]
         A[Right to Property in Own Person] --> B(Right to Own Labor)
         B --> C{Things Removed from Nature via Labor}
@@ -257,6 +285,13 @@ graph TD
 The chapter explores the challenges of applying a physical property model to intellectual creations.
 
 ```dot
+/*
+ * title: Extending Locke's Theory to IP & Its Paradoxes (Sec 4.2.2)
+ * author: Cong Le
+ * version: 1.0
+ * license(s): MIT, CC BY-SA 4.0
+ * copyright: Copyright (c) 2025 Cong Le. All Rights Reserved.
+ */
 digraph IPLockeExtension {
     rankdir=TB;
     node [shape=box, style="rounded,filled"];
@@ -302,7 +337,38 @@ digraph IPLockeExtension {
 Chapter 4.3 details the primary legal mechanisms for protecting intellectual property.
 
 ```mermaid
-graph TD
+---
+title: "Four Pillars of IP Protection (Sec 4.3) 🏛️"
+author: "Cong Le"
+version: "1.0"
+license(s): "MIT, CC BY-SA 4.0"
+copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
+config:
+  layout: elk
+  theme: base
+  look: handDrawn
+---
+%%%%%%%% Mermaid version v11.4.1-b.14
+%%%%%%%% Available curve styles include the following keywords:
+%% basis, bumpX, bumpY, cardinal, catmullRom, linear, monotoneX, monotoneY, natural, step, stepAfter, stepBefore.
+%%{
+  init: {
+    'flowchart': { 'htmlLabels': true, 'curve': 'basis' },
+    'fontFamily': 'American Typewriter, monospace',
+    'logLevel': 'fatal',
+    'themeVariables': {
+      'primaryColor': '#22BB',
+      'primaryTextColor': '#F8B229',
+      'lineColor': '#F8B229',
+      'primaryBorderColor': '#27AE60',
+      'secondaryColor': '#E2F1',
+      'secondaryTextColor': '#6C3483',
+      'secondaryBorderColor': '#A569BD',
+      'fontSize': '20px'
+    }
+  }
+}%%
+flowchart TD
     IP_Protection["Protecting Intellectual Property (Sec 4.3)"] --> TS["Trade Secrets (4.3.1)"]
     IP_Protection --> TM["Trademarks / Service Marks (4.3.2)"]
     IP_Protection --> PT["Patents (4.3.3)"]
@@ -329,7 +395,38 @@ graph TD
 Copyright law grants specific rights and has seen its duration extended over time.
 
 ```mermaid
-graph LR
+---
+title: "Copyrights: Holder's Rights & 'Copyright Creep' (Sec 4.3.4) 📜⏳"
+author: "Cong Le"
+version: "1.0"
+license(s): "MIT, CC BY-SA 4.0"
+copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
+config:
+  layout: elk
+  theme: base
+  look: handDrawn
+---
+%%%%%%%% Mermaid version v11.4.1-b.14
+%%%%%%%% Available curve styles include the following keywords:
+%% basis, bumpX, bumpY, cardinal, catmullRom, linear, monotoneX, monotoneY, natural, step, stepAfter, stepBefore.
+%%{
+  init: {
+    'flowchart': { 'htmlLabels': true, 'curve': 'basis' },
+    'fontFamily': 'American Typewriter, monospace',
+    'logLevel': 'fatal',
+    'themeVariables': {
+      'primaryColor': '#22BB',
+      'primaryTextColor': '#F8B229',
+      'lineColor': '#F8B229',
+      'primaryBorderColor': '#27AE60',
+      'secondaryColor': '#E2F1',
+      'secondaryTextColor': '#6C3483',
+      'secondaryBorderColor': '#A569BD',
+      'fontSize': '20px'
+    }
+  }
+}%%
+flowchart LR
     Copyright["Copyright (Sec 4.3.4)"] --> Rights["Copyright Holder's 5 Principal Rights"]
     Rights --> R1["1. Reproduce the work"]
     Rights --> R2["2. Distribute copies"]
@@ -356,6 +453,13 @@ graph LR
 Section 4.4 explains the Fair Use doctrine, which allows limited use of copyrighted material without permission.
 
 ```dot
+/*
+ * title: Fair Use Doctrine: The Four Factors (Sec 4.4)
+ * author: Cong Le
+ * version: 1.0
+ * license(s): MIT, CC BY-SA 4.0
+ * copyright: Copyright (c) 2025 Cong Le. All Rights Reserved.
+ */
 digraph FairUseFactors {
     rankdir=LR;
     node [shape=box, style="rounded,filled", fillcolor=lightyellow];
