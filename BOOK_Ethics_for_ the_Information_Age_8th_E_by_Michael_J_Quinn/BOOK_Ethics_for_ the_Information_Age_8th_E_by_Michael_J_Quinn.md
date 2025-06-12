@@ -269,14 +269,14 @@ flowchart TD
     subgraph ConcentricRings["Book Chapters 3-10 Organization"]
 	style ConcentricRings fill:#DD22
         User["💻 Computer User"]
-        Ch3["Ch 3: Networked Communications"]
-        Ch4["Ch 4: Intellectual Property"]
-        Ch5["Ch 5: Information Privacy"]
-        Ch6["Ch 6: Privacy & the Government"]
-        Ch7["Ch 7: Computer & Network Security"]
-        Ch8["Ch 8: Computer Reliability"]
-        Ch9["Ch 9: Professional Ethics"]
-        Ch10["Ch 10: Work & Wealth"]
+        Ch3["Ch 3:<br/>Networked Communications"]
+        Ch4["Ch 4:<br/>Intellectual Property"]
+        Ch5["Ch 5:<br/>Information Privacy"]
+        Ch6["Ch 6:<br/>Privacy & the Government"]
+        Ch7["Ch 7:<br/>Computer & Network Security"]
+        Ch8["Ch 8:<br/>Computer Reliability"]
+        Ch9["Ch 9:<br/>Professional Ethics"]
+        Ch10["Ch 10:<br/>Work & Wealth"]
 
         User --> Ch3
         Ch3 --> Ch4
