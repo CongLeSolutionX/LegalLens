@@ -296,14 +296,14 @@ flowchart TD
     style Ch9 fill:#lightgrey
     style Ch10 fill:#lightgrey
 
-    note right of Ch3
-        Innermost ring, focusing on
-        direct user communications.
-    endnote
-    note right of Ch10
-        Outer ring, focusing on
-        broader societal impacts.
-    endnote
+    %% note right of Ch3
+    %%    Innermost ring, focusing on
+    %%    direct user communications.
+    %% endnote
+    %% note right of Ch10
+    %%    Outer ring, focusing on
+    %%    broader societal impacts.
+    %% endnote
 ```
 
 **Caption for Diagram 2:** This diagram visualizes the "concentric rings" model described in the preface for Chapters 3 through 10 of Quinn's textbook. It shows how the topics move from the individual user's immediate interactions outwards to broader societal and economic issues. (Source: Quinn, M. J. (2020). *Ethics for the Information Age* (8th ed.). Pearson. Preface, "Organization of the Book".)
