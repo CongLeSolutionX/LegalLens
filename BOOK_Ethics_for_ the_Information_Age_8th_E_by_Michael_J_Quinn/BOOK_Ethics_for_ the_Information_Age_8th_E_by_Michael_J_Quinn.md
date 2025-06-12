@@ -604,31 +604,31 @@ config:
   }
 }%%
 flowchart TD
-    S[Daniel Solove's Taxonomy of Privacy <br/>(referencing Ch 5 & 6 Organization)] --> C(Information Collection)
-    S --> P(Information Processing)
-    S --> D(Information Dissemination)
-    S --> I(Invasion)
+    S["Daniel Solove's Taxonomy of Privacy <br/>(referencing Ch 5 & 6 Organization)"] --> C("Information Collection")
+    S --> P("Information Processing")
+    S --> D("Information Dissemination")
+    S --> I("Invasion")
 
     C --> C1["Activities that gather personal information"]
-    C --> C2["Ch 6.2: US Legislation Restricting Collection"]
-    C --> C3["Ch 6.3: Info Collection by Government (Census, NCIC)"]
-    C --> C4["Ch 6.4: Covert Government Surveillance"]
-    C --> C5["Ch 6.5: US Legislation Authorizing Wiretapping"]
-    C --> C6["Ch 6.6: USA PATRIOT Act"]
+    C --> C2["Ch 6.2:<br/>US Legislation Restricting Collection"]
+    C --> C3["Ch 6.3:<br/>Info Collection by Government<br/>(Census, NCIC)"]
+    C --> C4["Ch 6.4:<br/>Covert Government Surveillance"]
+    C --> C5["Ch 6.5:<br/>US Legislation Authorizing Wiretapping"]
+    C --> C6["Ch 6.6:<br/>USA PATRIOT Act"]
 
     P --> P1["Activities that store, manipulate, and use collected info"]
-    P --> P2["Ch 5.4: Data Mining"]
-    P --> P3["Ch 6.7: Regulation of Public & Private Databases (Code of Fair Info Practices, Privacy Act)"]
-    P --> P4["Ch 6.8: Data Mining by the Government"]
-    P --> P5["Ch 6.9: National Identification Card"]
+    P --> P2["Ch 5.4:<br/>Data Mining"]
+    P --> P3["Ch 6.7:<br/>Regulation of Public & Private Databases (Code of Fair Info Practices, Privacy Act)"]
+    P --> P4["Ch 6.8:<br/>Data Mining by the Government"]
+    P --> P5["Ch 6.9:<br/>National Identification Card"]
 
     D --> D1["Activities that spread personal information"]
-    D --> D2["Ch 6.10: Information Dissemination (FERPA, HIPAA, FOIA)"]
+    D --> D2["Ch 6.10:<br/>Information Dissemination<br/>(FERPA, HIPAA, FOIA)"]
 
     I --> I1["Activities that intrude upon a person's daily life or solitude"]
-    I --> I2["Ch 6.11: Invasion (Telemarketing, AIT Scanners)"]
+    I --> I2["Ch 6.11:<br/>Invasion<br/>(Telemarketing, AIT Scanners)"]
 
-    style S fill:#fcc,stroke:#333,stroke-width:2px
+    style S fill:#fcc2,stroke:#333,stroke-width:2px
 ```
 
 **Caption for Diagram 7:** This diagram illustrates Daniel Solove's taxonomy of privacy (Information Collection, Processing, Dissemination, and Invasion), which Chapter 6 of Quinn's textbook uses as an organizing principle for discussing privacy and the US government. Relevant sub-sections from Chapter 6 are mapped to this taxonomy, along with some topics from Chapter 5. (Source: Quinn, M. J. (2020). *Ethics for the Information Age* (8th ed.). Pearson. Preface to Ch 6, and sections as indicated.)
