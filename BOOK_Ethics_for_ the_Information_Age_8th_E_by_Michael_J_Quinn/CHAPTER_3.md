@@ -24,8 +24,7 @@ other source: https://z-lib.id/book/ethics-for-the-information-age-8th-edition-1
 
 
 # Chapter 3: Networked Communications - An Overview
-
-> **Disclaimer:**
+> <ins>📢 **Disclaimer** 🚨</ins>
 >
 > This document contains my personal notes on the topic,
 > compiled from publicly available documentation and various cited sources.
