@@ -25,6 +25,10 @@ other source: https://z-lib.id/book/ethics-for-the-information-age-8th-edition-1
 
 
 ## Chapter 1: Catalysts for Change – A Detailed Exploration
+<<<<<<< HEAD
+=======
+
+>>>>>>> main
 > <ins>📢 **Disclaimer** 🚨</ins>
 >
 > This document contains my personal notes on the topic,
