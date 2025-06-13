@@ -25,7 +25,7 @@ other source: https://z-lib.id/book/ethics-for-the-information-age-8th-edition-1
 
 ## Visualizing "Ethics for the Information Age, 8th Edition"
 
-> **Disclaimer:**
+> <ins>📢 **Disclaimer** 🚨</ins>
 >
 > This document contains my personal notes on the topic,
 > compiled from publicly available documentation and various cited sources.
@@ -267,15 +267,16 @@ config:
 }%%
 flowchart TD
     subgraph ConcentricRings["Book Chapters 3-10 Organization"]
+	style ConcentricRings fill:#DD22
         User["💻 Computer User"]
-        Ch3["Ch 3: Networked Communications"]
-        Ch4["Ch 4: Intellectual Property"]
-        Ch5["Ch 5: Information Privacy"]
-        Ch6["Ch 6: Privacy & the Government"]
-        Ch7["Ch 7: Computer & Network Security"]
-        Ch8["Ch 8: Computer Reliability"]
-        Ch9["Ch 9: Professional Ethics"]
-        Ch10["Ch 10: Work & Wealth"]
+        Ch3["Ch 3:<br/>Networked Communications"]
+        Ch4["Ch 4:<br/>Intellectual Property"]
+        Ch5["Ch 5:<br/>Information Privacy"]
+        Ch6["Ch 6:<br/>Privacy & the Government"]
+        Ch7["Ch 7:<br/>Computer & Network Security"]
+        Ch8["Ch 8:<br/>Computer Reliability"]
+        Ch9["Ch 9:<br/>Professional Ethics"]
+        Ch10["Ch 10:<br/>Work & Wealth"]
 
         User --> Ch3
         Ch3 --> Ch4
@@ -286,24 +287,24 @@ flowchart TD
         Ch8 --> Ch9
         Ch9 --> Ch10
     end
-    style User fill:#f9f,stroke:#333,stroke-width:4px
-    style Ch3 fill:#lightgrey
-    style Ch4 fill:#lightgrey
-    style Ch5 fill:#lightgrey
-    style Ch6 fill:#lightgrey
-    style Ch7 fill:#lightgrey
-    style Ch8 fill:#lightgrey
-    style Ch9 fill:#lightgrey
-    style Ch10 fill:#lightgrey
+    style User fill:#f9f2,stroke:#333,stroke-width:4px
+    style Ch3 fill:#22BB
+    style Ch4 fill:#22BB
+    style Ch5 fill:#22BB
+    style Ch6 fill:#22BB
+    style Ch7 fill:#22BB
+    style Ch8 fill:#22BB
+    style Ch9 fill:#22BB
+    style Ch10 fill:#22BB
 
-    note right of Ch3
-        Innermost ring, focusing on
-        direct user communications.
-    endnote
-    note right of Ch10
-        Outer ring, focusing on
-        broader societal impacts.
-    endnote
+    %% note right of Ch3
+    %%    Innermost ring, focusing on
+    %%    direct user communications.
+    %% endnote
+    %% note right of Ch10
+    %%    Outer ring, focusing on
+    %%    broader societal impacts.
+    %% endnote
 ```
 
 **Caption for Diagram 2:** This diagram visualizes the "concentric rings" model described in the preface for Chapters 3 through 10 of Quinn's textbook. It shows how the topics move from the individual user's immediate interactions outwards to broader societal and economic issues. (Source: Quinn, M. J. (2020). *Ethics for the Information Age* (8th ed.). Pearson. Preface, "Organization of the Book".)
@@ -486,6 +487,7 @@ config:
 }%%
 flowchart LR
     subgraph WorkableEthicalTheories["Workable Ethical Theories (Ch 2.11)"]
+	style WorkableEthicalTheories fill:#FE22
         KANT["Kantianism (2.6)"] -- "Focus on <br/> DUTIES & UNIVERSAL RULES" --> K_CI{"Categorical Imperative"}
         ACTU["Act Utilitarianism (2.7)"] -- "Focus on <br/> CONSEQUENCES of specific ACTIONS" --> AU_PU{"Principle of Utility: <br> Maximize overall happiness"}
         RULEU["Rule Utilitarianism (2.8)"] -- "Focus on <br/> CONSEQUENCES of adopting general RULES" --> RU_PU{"Principle of Utility: <br> Rules leading to max happiness"}
@@ -493,11 +495,11 @@ flowchart LR
         VE["Virtue Ethics (2.10)"] -- "Focus on <br/> CHARACTER & VIRTUES for human flourishing" --> VE_ARISTOTLE{"Aristotelian Virtues"}
     end
 
-    style KANT fill:#aaffaa
-    style ACTU fill:#aaddff
-    style RULEU fill:#aaddff
-    style SCT fill:#ffaaaa
-    style VE fill:#ffffaa
+    style KANT fill:#afa2
+    style ACTU fill:#adf2
+    style RULEU fill:#adf2
+    style SCT fill:#faa2
+    style VE fill:#ffa2
 ```
 
 **Caption for Diagram 5:** This diagram compares the five workable ethical theories identified in Chapter 2.11 of Quinn's textbook, focusing on their distinct approaches to moral decision-making. (Source: Quinn, M. J. (2020). *Ethics for the Information Age* (8th ed.). Pearson. Sections 2.6-2.11.)
@@ -601,32 +603,32 @@ config:
     }
   }
 }%%
-flowchart TD
-    S[Daniel Solove's Taxonomy of Privacy <br/>(referencing Ch 5 & 6 Organization)] --> C(Information Collection)
-    S --> P(Information Processing)
-    S --> D(Information Dissemination)
-    S --> I(Invasion)
+flowchart LR
+    S["Daniel Solove's Taxonomy of Privacy <br/>(referencing Ch 5 & 6 Organization)"] --> C("Information Collection")
+    S --> P("Information Processing")
+    S --> D("Information Dissemination")
+    S --> I("Invasion")
 
     C --> C1["Activities that gather personal information"]
-    C --> C2["Ch 6.2: US Legislation Restricting Collection"]
-    C --> C3["Ch 6.3: Info Collection by Government (Census, NCIC)"]
-    C --> C4["Ch 6.4: Covert Government Surveillance"]
-    C --> C5["Ch 6.5: US Legislation Authorizing Wiretapping"]
-    C --> C6["Ch 6.6: USA PATRIOT Act"]
+    C --> C2["Ch 6.2:<br/>US Legislation Restricting Collection"]
+    C --> C3["Ch 6.3:<br/>Info Collection by Government<br/>(Census, NCIC)"]
+    C --> C4["Ch 6.4:<br/>Covert Government Surveillance"]
+    C --> C5["Ch 6.5:<br/>US Legislation Authorizing Wiretapping"]
+    C --> C6["Ch 6.6:<br/>USA PATRIOT Act"]
 
     P --> P1["Activities that store, manipulate, and use collected info"]
-    P --> P2["Ch 5.4: Data Mining"]
-    P --> P3["Ch 6.7: Regulation of Public & Private Databases (Code of Fair Info Practices, Privacy Act)"]
-    P --> P4["Ch 6.8: Data Mining by the Government"]
-    P --> P5["Ch 6.9: National Identification Card"]
+    P --> P2["Ch 5.4:<br/>Data Mining"]
+    P --> P3["Ch 6.7:<br/>Regulation of Public & Private Databases (Code of Fair Info Practices, Privacy Act)"]
+    P --> P4["Ch 6.8:<br/>Data Mining by the Government"]
+    P --> P5["Ch 6.9:<br/>National Identification Card"]
 
     D --> D1["Activities that spread personal information"]
-    D --> D2["Ch 6.10: Information Dissemination (FERPA, HIPAA, FOIA)"]
+    D --> D2["Ch 6.10:<br/>Information Dissemination<br/>(FERPA, HIPAA, FOIA)"]
 
     I --> I1["Activities that intrude upon a person's daily life or solitude"]
-    I --> I2["Ch 6.11: Invasion (Telemarketing, AIT Scanners)"]
+    I --> I2["Ch 6.11:<br/>Invasion<br/>(Telemarketing, AIT Scanners)"]
 
-    style S fill:#fcc,stroke:#333,stroke-width:2px
+    style S fill:#fcc2,stroke:#333,stroke-width:2px
 ```
 
 **Caption for Diagram 7:** This diagram illustrates Daniel Solove's taxonomy of privacy (Information Collection, Processing, Dissemination, and Invasion), which Chapter 6 of Quinn's textbook uses as an organizing principle for discussing privacy and the US government. Relevant sub-sections from Chapter 6 are mapped to this taxonomy, along with some topics from Chapter 5. (Source: Quinn, M. J. (2020). *Ethics for the Information Age* (8th ed.). Pearson. Preface to Ch 6, and sections as indicated.)
@@ -670,14 +672,14 @@ config:
   }
 }%%
 flowchart LR
-    A[Specification (8.9.1) <br/> Defining functions, requirements, constraints] --> B(Development (8.9.2) <br/> Producing software to meet specs, design, coding)
-    B --> C(Validation (8.9.3) <br/> Testing software against specs & user needs)
-    C --> D(Evolution (8.9.4) <br/> Modifying software for changing needs)
-    D --> A_loop((Start New Cycle / Maintenance))
-    style A fill:#cceeff
-    style B fill:#cceeff
-    style C fill:#cceeff
-    style D fill:#cceeff
+    A["Specification (8.9.1) <br/> Defining functions, requirements, constraints"] --> B("Development (8.9.2) <br/> Producing software to meet specs, design, coding")
+    B --> C("Validation (8.9.3) <br/> Testing software against specs & user needs")
+    C --> D("Evolution (8.9.4) <br/> Modifying software for changing needs")
+    D --> A_loop(("Start New Cycle / Maintenance"))
+    style A fill:#cef2
+    style B fill:#cef2
+    style C fill:#cef2
+    style D fill:#cef2
 ```
 
 **Caption for Diagram 8:** This flowchart illustrates the four-step software engineering process (Specification, Development, Validation, Evolution) as described in Section 8.9 of Quinn's textbook. It emphasizes the cyclical nature of software development and maintenance. (Source: Quinn, M. J. (2020). *Ethics for the Information Age* (8th ed.). Pearson. Section 8.9.)
