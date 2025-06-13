@@ -23,7 +23,7 @@ other source: https://z-lib.id/book/ethics-for-the-information-age-8th-edition-1
 ----
 
 # Chapter 5: Information Privacy - A Deep Dive
-> **Disclaimer:**
+> <ins>📢 **Disclaimer** 🚨</ins>
 >
 > This document contains my personal notes on the topic,
 > compiled from publicly available documentation and various cited sources.
