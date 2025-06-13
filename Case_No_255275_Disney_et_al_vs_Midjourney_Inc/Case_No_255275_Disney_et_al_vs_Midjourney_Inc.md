@@ -25,7 +25,7 @@ source: https://media.npr.org/assets/artslife/movies/misc/midjourney.pdf
 
 
 # Disney et al. vs. Midjourney, Inc - Case No. 25-5275
-> **Disclaimer:**
+> <ins>📢 **Disclaimer** 🚨</ins>
 >
 > This document contains my personal notes on the topic,
 > compiled from publicly available documentation and various cited sources.
