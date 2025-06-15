@@ -78,7 +78,16 @@ flowchart TD
     B --> C["Plaintiffs: <br/>Disney Enterprises, Inc.<br/>Marvel Characters, Inc.<br/>MVL Film Finance LLC<br/>Lucasfilm Ltd. LLC<br/>Twentieth Century Fox Film Corp.<br/>Universal City Studios Productions LLLP<br/>DreamWorks Animation L.L.C."]
     B --> D["Defendant: <br/>Midjourney, Inc."]
 
+%% TODO: MORE RESEARCH ON THE FOLLOWING
 %% M@{ img: "https://avatars.githubusercontent.com/u/61396273?s=200&v=4", label: "Midjourney, Inc.", pos: "b", w: 200, h: 150, constraint: "off" }
+
+%% https://spiderman-animated.fandom.com/wiki/Marvel_Characters,_Inc.
+%% https://trademarks.justia.com/owners/marvel-characters-inc-26695/
+%% https://trademarks.justia.com/company/disney/
+%% https://trademarks.justia.com/owners/disney-enterprises-inc-11601/
+%% https://www.avid.wiki/Lucasfilm_Ltd.
+%% https://www.20thcenturystudios.com/
+%% https://www.universalstudios.com/
 
 
     C --> E{"Claims"}
