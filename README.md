@@ -329,7 +329,7 @@ The repository is logically organized by major legal domains, then further subdi
 ```plaintext
 LegalLens/
 ├── LICENSE                 # MIT License (for code/diagram source)
-├── LICENSE-CC-BY-SA        # CC BY-SA 4.0 License (for documentation/text)
+├── LICENSE-CC-BY-SA-4.0    # CC BY-SA 4.0 License (for documentation/text)
 ├── README.md               # This overview file
 │
 ├── DataPrivacy/
