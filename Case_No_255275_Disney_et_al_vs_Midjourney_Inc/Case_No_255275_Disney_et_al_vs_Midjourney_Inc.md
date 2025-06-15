@@ -51,9 +51,7 @@ version: "1.0"
 license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
-  layout: elk
   theme: base
-  look: handDrawn
 ---
 %%%%%%%% Mermaid version v11.4.1-b.14
 %%%%%%%% Available curve styles include the following keywords:
@@ -76,21 +74,25 @@ config:
   }
 }%%
 flowchart TD
-    A["<strong>Case 2:25-cv-05275</strong><br/>U.S. District Court, Central District of California"] --> B{Copyright Infringement Lawsuit};
-    B --> C[Plaintiffs: <br/>Disney Enterprises, Inc.<br/>Marvel Characters, Inc.<br/>MVL Film Finance LLC<br/>Lucasfilm Ltd. LLC<br/>Twentieth Century Fox Film Corp.<br/>Universal City Studios Productions LLLP<br/>DreamWorks Animation L.L.C.];
-    B --> D[Defendant: <br/>Midjourney, Inc.];
-    C --> E{Claims};
-    D --> E;
-    E --> F[Direct Copyright Infringement];
-    E --> G[Secondary Copyright Infringement];
-    F --> H["Under Copyright Act<br/>(17 U.S.C. § 101 et seq.)"];
-    G --> H;
-    H --> I["Demand for Jury Trial"];
+    A["<strong>Case 2:25-cv-05275</strong><br/>U.S. District Court, Central District of California"] --> B{"Copyright Infringement Lawsuit"}
+    B --> C["Plaintiffs: <br/>Disney Enterprises, Inc.<br/>Marvel Characters, Inc.<br/>MVL Film Finance LLC<br/>Lucasfilm Ltd. LLC<br/>Twentieth Century Fox Film Corp.<br/>Universal City Studios Productions LLLP<br/>DreamWorks Animation L.L.C."]
+    B --> D["Defendant: <br/>Midjourney, Inc."]
 
-    style A fill:#f9f2,stroke:#333,stroke-width:2px;
-    style C fill:#A226,stroke:#333,stroke-width:2px;
-    style D fill:#A226,stroke:#333,stroke-width:2px;
-    style E fill:#AD86,stroke:#333,stroke-width:2px;
+%% M@{ img: "https://avatars.githubusercontent.com/u/61396273?s=200&v=4", label: "Midjourney, Inc.", pos: "b", w: 200, h: 150, constraint: "off" }
+
+
+    C --> E{"Claims"}
+    D --> E
+    E --> F["Direct Copyright Infringement"]
+    E --> G["Secondary Copyright Infringement"]
+    F --> H["Under Copyright Act<br/>(17 U.S.C. § 101 et seq.)"]
+    G --> H
+    H --> I["Demand for Jury Trial"]
+
+    style A fill:#f9f2,stroke:#333,stroke-width:2px
+    style C fill:#A226,stroke:#333,stroke-width:2px
+    style D fill:#A226,stroke:#333,stroke-width:2px
+    style E fill:#AD86,stroke:#333,stroke-width:2px
 ```
 
 **Key Legal Statutes Invoked:**
