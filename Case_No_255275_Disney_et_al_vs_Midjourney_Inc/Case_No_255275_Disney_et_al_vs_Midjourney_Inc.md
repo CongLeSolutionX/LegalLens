@@ -12,7 +12,7 @@ source: https://media.npr.org/assets/artslife/movies/misc/midjourney.pdf
 > 
 > This is a working draft in progress
 > 
-> ![Loading...](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2tvYWIyOGRpbWZodTQ2YTI2bjQ1eHpoaDY0YTZ3Mms2aWhneHNlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fR6aYF0SUJAeoypyub/giphy.gif)
+> ![Loading...](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9ocnY5eGxha3NmbmpqOGc3dGV5eDc5b21wd3VoczJ0a3hlamFleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U72VLCEqPY3MJNA0Jx/giphy.gif)
 >
 > gif image is provided by [Giphy](https://giphy.com)
 > 
