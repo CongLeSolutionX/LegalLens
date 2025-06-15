@@ -80,6 +80,7 @@ flowchart TD
 
 %% TODO: MORE RESEARCH ON THE FOLLOWING
 %% M@{ img: "https://avatars.githubusercontent.com/u/61396273?s=200&v=4", label: "Midjourney, Inc.", pos: "b", w: 200, h: 150, constraint: "off" }
+%% M@{ img: "https://docs.midjourney.com/hc/article_attachments/32084281099149", label: "Midjourney, Inc.", pos: "b", w: 200, h: 150, constraint: "off" }
 
 %% https://spiderman-animated.fandom.com/wiki/Marvel_Characters,_Inc.
 %% https://trademarks.justia.com/owners/marvel-characters-inc-26695/
