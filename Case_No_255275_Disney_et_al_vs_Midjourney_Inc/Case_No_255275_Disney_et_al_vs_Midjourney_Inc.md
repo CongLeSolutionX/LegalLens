@@ -526,7 +526,7 @@ mindmap
 		*   gdspaz, Deadpool and Wolverine hanging out. `https://www.reddit.com/r/midjourney/comments/13h3fd0/deadpool_and_wolverine_hanging_out/` (Footnote 11)
 		*   GremlinBobby, The Life of Shrek Beyond the Swamp. `https://www.reddit.com/r/midjourney/comments/180c179/the_life_of_shrek_beyond_the_swamp/` (Footnote 12)
 		*   Eon_Flux_139, Deadpool. `https://www.reddit.com/r/midjourney/comments/1esdjzk/deadpool/` (Footnote 13)
-		*   SmirkingDesigner, Frozen. `https://www.reddit.com/r/midjourney/comments/1fwkjhe/frozen/` (Footnote 14)
+		*   ~SmirkingDesigner, Frozen. `https://www.reddit.com/r/midjourney/comments/1fwkjhe/frozen/` (Footnote 14)~ - No longer public accessible
 		*   RainMan915, Darth Vader. `https://www.reddit.com/r/midjourney/comments/198z4ad/darth_vader/` (Footnote 15)
 		*   alanskimp, Yoda. `https://www.reddit.com/r/midjourney/comments/10xpm3j/yoda/` (Footnote 16)
 		*   filoni, Some of my fave Marvel generations! [prompt in comment]. `https://www.reddit.com/r/midjourney/comments/xeqpi3/some_of_my_fave_marvel_generations_prompt_in/#lightbox` (Footnote 17)
