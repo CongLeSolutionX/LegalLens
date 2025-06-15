@@ -512,7 +512,7 @@ mindmap
 	*   17 U.S.C. § 505 (Costs and Attorney's Fees)
 	*   17 U.S.C. § 502 (Injunctive Relief)
 *   **Articles & Online Sources (as cited by filename, with provided links):**
-	*   Monge, Jim Clyde. "Midjourney Finally Releases V7 Image Model." Medium (Apr. 7, 2025). `https://generativeai.pub/midjourney-finally-releases-v7-image-model-e07455e60f57` (Footnote 1)
+	*   ~Monge, Jim Clyde. "Midjourney Finally Releases V7 Image Model." Medium (Apr. 7, 2025). `https://generativeai.pub/midjourney-finally-releases-v7-image-model-e07455e60f57` (Footnote 1)~  - No longer public accessible
 	*   Salkowitz, Rob. "Midjourney Founder David Holz on the Impact of AI on Art, Imagination and the Creative Economy." Forbes (Sept. 16, 2022). `https://www.forbes.com/sites/robsalkowitz/2022/09/16/midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy/` (Footnotes 2, 6)
 	*   Wiggers, Kyle. "Midjourney Says It's 'Getting Into Hardware'." TechCrunch (Aug. 28, 2024). `https://techcrunch.com/2024/08/28/midjourney-says-its-getting-into-hardware/` (Footnote 3)
 	*   Kumar, Naveen. "Midjourney Statistics 2025: Users & Revenue Data." DemandSage (Dec. 31, 2024). `https://www.demandsage.com/midjourney-statistics/` (Footnote 3)
