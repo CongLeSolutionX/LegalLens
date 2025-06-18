@@ -321,7 +321,7 @@ config:
   }
 }%%
 mindmap
-  root))"**CC BY-NC-SA 4.0**"((
+  root)"**CC BY-NC-SA 4.0**"(
     ::icon(fa fa-creative-commons)
     Allows))"**Allows**"((
       (Distribution)
