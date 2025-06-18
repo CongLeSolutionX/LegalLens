@@ -161,11 +161,14 @@ arXiv offers several licenses. For all except CC Zero, the **original copyright 
 
 Let's look at the options:
 
+---
+
 ### Creative Commons (CC) Licenses
 
 These licenses provide a standardized way to grant public permission to share and use creative work on conditions of the author's choice.
 
 #### 1. CC BY 4.0 (Attribution)
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 *   **Allows**: Distribute, Remix, Adapt, Build upon (even commercially 💰).
 *   **Requires**: Attribution to the creator (BY).
@@ -218,7 +221,10 @@ mindmap
       ("Preprints if journal agrees")
 ```
 
+---
+
 #### 2. CC BY-SA 4.0 (Attribution-ShareAlike)
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 *   **Allows**: Distribute, Remix, Adapt, Build upon (even commercially 💰).
 *   **Requires**:
@@ -273,7 +279,10 @@ mindmap
       ("Copyleft licenses")
 ```
 
+---
+
 #### 3. CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike)
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 *   **Allows**: Distribute, Remix, Adapt, Build upon (Non-commercially ONLY 🚫💼).
 *   **Requires**:
@@ -325,7 +334,10 @@ mindmap
       ("ShareAlike <br/>(SA) 🔗 <br/>- Modified material under identical terms")
 ```
 
+---
+
 #### 4. CC BY-NC-ND 4.0 (Attribution-NonCommercial-NoDerivatives)
+[![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 *   **Allows**: Copy and Distribute material in unadapted form ONLY (No Derivatives 🚫🛠️), for non-commercial purposes ONLY (🚫💼).
 *   **Requires**: Attribution to the creator (BY).
@@ -381,6 +393,12 @@ mindmap
 ### arXiv.org Specific License
 
 #### 5. arXiv.org Perpetual, non-exclusive license 1.0
+<div align="left">
+  <img alt="arXiv.org perpetual, non-exclusive license 1.0" src="https://info.arxiv.org/help/license/images/arxiv-license.png" width="88", height="31"/>
+  
+  <i>Click here 👉🏼 <a href="https://arxiv.org/licenses/nonexclusive-distrib/1.0/license.html">the arXiv.org perpetual, non-exclusive license 1.0</a> to see the full text.
+ 
+</div>
 
 *   **Grants arXiv**: Limited rights to distribute the article.
 *   **Limits Reuse**: Restricts reuse by other entities/individuals.
@@ -435,6 +453,7 @@ flowchart TD
 ### Public Domain Dedication
 
 #### 6. CC Zero (CC0)
+[![CC Zero](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/public-domain/cc0/)
 
 *   **What it is**: A public dedication tool. Creators give up their copyright.
 *   **Result**: Work enters the worldwide public domain 🌐.
