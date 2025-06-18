@@ -7,19 +7,20 @@ copyright: Copyright (c) 2025 Cong Le. All Rights Reserved.
 ---
 
 
-> ⚠️🏗️🚧🦺🧱🪵🪨🪚🛠️👷
-> 
-> This is a working draft in progress
-> 
-> ![Loading...](https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-and-stack-of-licenses.png)
->
-> gif image is provided by [Giphy](https://giphy.com/gifs/spongebob-spongebob-squarepants-season-6-xT3i1dp3WjezioIadi)
-> 
-> ⚠️🏗️🚧🦺🧱🪵🪨🪚🛠️👷
+<div align="center">
+  <p>⚠️🏗️🚧🦺🧱🪵🪨🪚🛠️👷</p>
+  <p>This is a working draft in progress...</p>
+  <img alt="Stack-of-licenses" src="https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-and-stack-of-licenses.png" width="500", height="350"/>
+  <blockquote>
+	  <i>gif image is provided by <a href="https://giphy.com/gifs/spongebob-spongebob-squarepants-season-6-xT3i1dp3WjezioIadi">Giphy</a></i>
+    <br/>
+  </blockquote>
+  <p>⚠️🏗️🚧🦺🧱🪵🪨🪚🛠️👷</p>
+</div>
 
 
-----
 
+---
 
 
 
