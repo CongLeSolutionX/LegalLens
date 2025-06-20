@@ -86,7 +86,7 @@ Utilizing `Mermaid.js`, we create flowcharts, mind maps, sequence diagrams, and 
 *   Software & Content Licenses (Open Source & Proprietary)
 *   Data Processing Agreements (DPAs)
 *   Intellectual Property Frameworks
-*   Other essential legal instruments shaping the digital landscape.
+*   Other essential legal instruments shaping [the digital landscape](https://github.com/CongLeSolutionX/Digital-Bedrock-Landscape).
 
 Whether you are a developer ensuring compliance, a user seeking to understand your rights, a legal professional looking for quick references, a student learning tech law, or a policymaker analyzing regulatory impact, `LegalLens` provides an accessible visual pathway.
 
