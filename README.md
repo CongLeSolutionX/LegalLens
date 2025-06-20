@@ -18,7 +18,7 @@ Copyright (c) 2025 Cong Le. All Rights Reserved.
       <td align="center", style="border: none">
         <img alt="Loading..." src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGNrcGRpOTB0aWdpbnhlbmpjdnZra2xsYXQ5eWwwNG9qZmltbnljYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SCt3Miv6ugvSg/giphy.gif"/>
         <br/>
-		<em>The scene is from movie <b>The Matrix (1999)</b><a href="The Matrix"</a></em>
+		<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
 		<br/>
         <em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
       </td>
