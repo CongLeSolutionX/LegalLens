@@ -146,7 +146,7 @@ config:
       'primaryTextColor': '#F8B229',
       'lineColor': '#F8B229',
       'primaryBorderColor': '#27AE60',
-      'secondaryColor': '#EEF2',
+      'secondaryColor': '#6C3483',
       'secondaryTextColor': '#6C3483',
       'secondaryBorderColor': '#A569BD',
       'fontSize': '15px'
@@ -154,7 +154,8 @@ config:
   }
 }%%
 flowchart TD
-    A["You"] --> B("Install & Use VS Code")
+	My_Meme@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-original.png", label: "You", pos: "b", w: 200, h: 150, constraint: "on" }
+	My_Meme --> B("Install & Use VS Code")
     B --> C{"What for?"}
     C --> D["Develop Your Applications 👨‍💻"]
     C --> E["Test Your Applications 🧪"]
@@ -340,14 +341,15 @@ config:
   }
 }%%
 flowchart LR
-    A["You"] -- Gives Feedback --> B["Microsoft"]
+	My_Meme@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-original.png", label: "You", pos: "b", w: 200, h: 150, constraint: "on" }
+	My_Meme -- Gives Feedback --> B["Microsoft"]
     B -- Receives --> C{"Feedback Rights Given to Microsoft"}
     C --> D["Use Feedback ✅"]
     C --> E["Share Feedback ✅"]
     C --> F["Commercialize Feedback ✅"]
     D & E & F --> G["In any way, for any purpose, without charge 💸"]
 
-    A -- Must Not Give --> H{"Feedback Subject to Restrictive Licenses"}
+    My_Meme -- Must Not Give --> H{"Feedback Subject to Restrictive Licenses"}
     H --> I["Licenses requiring Microsoft to license its software/docs to third parties because your feedback is included 🚫"]
 
     subgraph Survival["Survival"]
