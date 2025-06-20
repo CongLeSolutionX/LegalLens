@@ -154,7 +154,9 @@ config:
   }
 }%%
 flowchart TD
-    A["You"] --> B("Install & Use VS Code")
+
+	My_Meme@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-questions-magnifying-glass-tangled-lines-bubble-thought.png", label: "You", pos: "b", w: 200, h: 150, constraint: "on" }
+	My_Meme --> B("Install & Use VS Code")
     B --> C{"What for?"}
     C --> D["Develop Your Applications 👨‍💻"]
     C --> E["Test Your Applications 🧪"]
