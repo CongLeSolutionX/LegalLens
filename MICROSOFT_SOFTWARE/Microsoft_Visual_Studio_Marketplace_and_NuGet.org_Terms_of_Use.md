@@ -93,7 +93,7 @@ flowchart TD
     PUB["👥 Publisher<br/>(Third-Party)"] -- Publishes Offerings --> Platforms
 
     %% USER["👤 You<br/>(User/Developer)"] -- Accesses/Uses --> Platforms
-    USER@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-oranges.png", label: "✍️...🤔❓🤔...👨🏼‍💻", pos: "b", w: 200, h: 150, constraint: "on" }
+    USER@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-oranges.png", label: "👤 You<br/>(User/Developer) 👨🏼‍💻", pos: "b", w: 200, h: 150, constraint: "on" }
     USER -- Accesses/Uses --> Platforms
     
     Platforms -- Provides Access To --> OFFERINGS
