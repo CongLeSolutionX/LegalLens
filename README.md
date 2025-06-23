@@ -542,9 +542,11 @@ cd LegalLens
 <div align="center">
 	<img alt="Loading..." src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzU3Nnp1dTJqNDhjczV2cm0yYmF2azU0MWNrMG42N3gyODgxbHJ0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRzQS5HXcEWM7du/giphy.gif"/>
 	<br/>
-	<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
-	<br/>
-	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+	<blockquote>
+		<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
+		<br/>
+		<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+	</blockquote>
 </div>
 
 
