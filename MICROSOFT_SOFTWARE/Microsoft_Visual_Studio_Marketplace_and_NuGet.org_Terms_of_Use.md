@@ -83,17 +83,22 @@ config:
 }%%
 flowchart TD
     subgraph Platforms["💻 Sites<br/>(Hosted by Microsoft)"]
+    style Platforms fill:#F2F2,stroke:#333,stroke-width:1px, color: #FFFF
     direction LR
         MKT["Visual Studio Marketplace"]
         NUG["NuGet.org"]
     end
 
     MS["Microsoft Corp."] -- Hosts & Governs --> Platforms
-    USER["👤 You<br/>(User/Developer)"] -- Accesses/Uses --> Platforms
     PUB["👥 Publisher<br/>(Third-Party)"] -- Publishes Offerings --> Platforms
 
+    %% USER["👤 You<br/>(User/Developer)"] -- Accesses/Uses --> Platforms
+    USER@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-oranges.png", label: "✍️...🤔❓🤔...👨🏼‍💻", pos: "b", w: 200, h: 150, constraint: "on" }
+    USER -- Accesses/Uses --> Platforms
+    
     Platforms -- Provides Access To --> OFFERINGS
     subgraph OfferingsFamily["🎁 Offerings"]
+    style OfferingsFamily fill:#22F2,stroke:#333,stroke-width:1px, color: #FFFF
         MKT_O["Marketplace Offerings"]
         NUG_O["NuGet Offerings"]
         PUB_O["Publisher Offerings<br/>(on MKT & NUG)"]
