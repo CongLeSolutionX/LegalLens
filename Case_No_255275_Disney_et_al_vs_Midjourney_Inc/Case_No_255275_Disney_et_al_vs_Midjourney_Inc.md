@@ -27,6 +27,7 @@ https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhqcXdrdm5hcXFkbDU4MG44YWgxbj
 # Disney et al. vs. Midjourney, Inc - Case No. 25-5275
 <details open>
 <summary>Click to show/hide the full disclaimer.</summary>
+   
 > <ins>📢 **Disclaimer** 🚨</ins>
 >
 > This document contains my personal notes on the topic,
