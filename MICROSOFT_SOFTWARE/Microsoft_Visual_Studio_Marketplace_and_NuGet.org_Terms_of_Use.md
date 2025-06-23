@@ -12,7 +12,7 @@ source: https://cdn.vsassets.io/v/M146_20190123.39/_content/Microsoft-Visual-Stu
 > 
 > This is a working draft in progress
 > 
-> ![Loading...](https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-and-stack-of-licenses.png)
+> ![Loading...](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHE5ZjVyeHh2MXFyMzV5Znp4Yzc1aTAzaWYxYjNyb3dzMWZoZTFtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wjEQMRyynvrdx5g7Mn/giphy.gif)
 >
 > gif image is provided by [Giphy](https://giphy.com/gifs/spongebob-spongebob-squarepants-season-6-xT3i1dp3WjezioIadi)
 > 
@@ -83,17 +83,22 @@ config:
 }%%
 flowchart TD
     subgraph Platforms["💻 Sites<br/>(Hosted by Microsoft)"]
+    style Platforms fill:#F2F2,stroke:#333,stroke-width:1px, color: #FFFF
     direction LR
         MKT["Visual Studio Marketplace"]
         NUG["NuGet.org"]
     end
 
     MS["Microsoft Corp."] -- Hosts & Governs --> Platforms
-    USER["👤 You<br/>(User/Developer)"] -- Accesses/Uses --> Platforms
     PUB["👥 Publisher<br/>(Third-Party)"] -- Publishes Offerings --> Platforms
 
+    %% USER["👤 You<br/>(User/Developer)"] -- Accesses/Uses --> Platforms
+    USER@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-oranges.png", label: "👤 You<br/>(User/Developer) 👨🏼‍💻", pos: "b", w: 200, h: 150, constraint: "on" }
+    USER -- Accesses/Uses --> Platforms
+    
     Platforms -- Provides Access To --> OFFERINGS
     subgraph OfferingsFamily["🎁 Offerings"]
+    style OfferingsFamily fill:#22F2,stroke:#333,stroke-width:1px, color: #FFFF
         MKT_O["Marketplace Offerings"]
         NUG_O["NuGet Offerings"]
         PUB_O["Publisher Offerings<br/>(on MKT & NUG)"]
