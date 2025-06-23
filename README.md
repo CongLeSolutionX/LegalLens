@@ -1,12 +1,11 @@
 # **LegalLens**: <br/>*Visualizing the Landscape of Technology Law & Policy*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Content License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](LICENSE-CC-BY) [![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/CongLeSolutionX/LegalLens/)
-
----
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) [![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/CongLeSolutionX/LegalLens/)
 
 Copyright (c) 2025 Cong Le. All Rights Reserved.
 
 ----
+
 
 > ⚠️🏗️🚧🦺🧱🪵🪨🪚🛠️👷
 > 
@@ -19,6 +18,8 @@ Copyright (c) 2025 Cong Le. All Rights Reserved.
       <td align="center", style="border: none">
         <img alt="Loading..." src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGNrcGRpOTB0aWdpbnhlbmpjdnZra2xsYXQ5eWwwNG9qZmltbnljYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SCt3Miv6ugvSg/giphy.gif"/>
         <br/>
+		<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
+		<br/>
         <em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
       </td>
       <td align="center", border="none">
@@ -68,6 +69,10 @@ flowchart LR
 
 ```
 
+<!--
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BlNDJqYWVxOTdqYjRkeWVyNGdwMmwxcXQwd3MxZ2tjNGo5Y3h0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udhR8Hh1YVM6Q/giphy.gif
+-->
+
 -----
 
 **Welcome to LegalLens!**
@@ -81,7 +86,7 @@ Utilizing `Mermaid.js`, we create flowcharts, mind maps, sequence diagrams, and 
 *   Software & Content Licenses (Open Source & Proprietary)
 *   Data Processing Agreements (DPAs)
 *   Intellectual Property Frameworks
-*   Other essential legal instruments shaping the digital landscape.
+*   Other essential legal instruments shaping [the digital landscape](https://github.com/CongLeSolutionX/Digital-Bedrock-Landscape).
 
 Whether you are a developer ensuring compliance, a user seeking to understand your rights, a legal professional looking for quick references, a student learning tech law, or a policymaker analyzing regulatory impact, `LegalLens` provides an accessible visual pathway.
 
@@ -108,6 +113,16 @@ Whether you are a developer ensuring compliance, a user seeking to understand yo
 
 ## The Challenge & Our Approach
 
+<div align="center">
+	<img alt="The Challenge" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJnbWV1MTJkNnoxbXY1MDY4b3NwZTZhc2k0ZHNzanJ5eWdhMGFzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gNzDiRiZS3SXS/giphy.gif"/>
+	<br/>
+	<blockquote>
+		<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
+		<br/>
+		<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+	</blockquote>
+</div>
+
 Traditional legal documents, while precise, are often characterized by dense text, specialized jargon, and complex sentence structures, making them challenging to parse quickly and accurately. `LegalLens` addresses this by offering a visual interpretation layer, designed to help you:
 
 *   **Accelerate Understanding:** Quickly grasp the core principles, requirements, and workflows outlined in legal texts.
@@ -118,7 +133,15 @@ Traditional legal documents, while precise, are often characterized by dense tex
 *   **Facilitate Communication:** Use the diagrams as aids for explaining complex legal concepts to diverse audiences, including non-legal teams.
 *   **Support Compliance Efforts:** Provide visual checklists and process flows related to regulatory requirements.
 
-**Our Method:**
+### Our Method
+
+<div align="center">
+	<img alt="Our Method" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtnMnpjYmx3ODM3ajV2djZvang0cDQyZ3k4ZHhmZWRqem9rMTg2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oNG0BcTCRvgeIsyAiE/giphy.gif"/>
+	<br/>
+	<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
+	<br/>
+	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+</div>
 
 1.  **Analyze Source Documents:** We review relevant legal statutes, regulations, standard contract terms, and policy documents.
 2.  **Create Mermaid Diagrams:** We select appropriate diagram types (flowcharts, mind maps, etc.) to best represent the specific legal concept or process.
@@ -311,7 +334,7 @@ The repository is logically organized by major legal domains, then further subdi
 ```plaintext
 LegalLens/
 ├── LICENSE                 # MIT License (for code/diagram source)
-├── LICENSE-CC-BY           # CC BY 4.0 License (for documentation/text)
+├── LICENSE-CC-BY-SA-4.0    # CC BY-SA 4.0 License (for documentation/text)
 ├── README.md               # This overview file
 │
 ├── DataPrivacy/
@@ -466,6 +489,17 @@ graph TD
 
 ## Getting Started
 
+<div align="center">
+	<img alt="Loading..." src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBnMmh5a3VrOG92cjR5N3FneXphM2M5dTNtOXFxc2FnNDZjdXQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEv7v51FEI3L54jpr/giphy.gif"/>
+	<br/>
+	<blockquote>
+		<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
+		<br/>
+		<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+	</blockquote>
+</div>
+
+
 ### Prerequisites
 
 *   **Web Browser:** Any modern web browser capable of rendering GitHub pages (which includes Mermaid.js support).
@@ -483,6 +517,17 @@ cd LegalLens
 
 ## How to Use LegalLens
 
+<div align="center">
+	<img alt="Loading..." src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk5b3R5bXBtZjRza2h3d2gyb2t2aWd3NGE3ZDhlcWs0bXUydnhzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mSXSC0vivvygw/giphy.gif"/>
+	<br/>
+	<blockquote>
+		<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
+		<br/>
+		<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+	</blockquote>
+</div>
+
+
 1.  **Browse the Repository:** Navigate the folders based on the legal domain or specific topic you are interested in (e.g., `DataPrivacy/GDPR/`, `SoftwareLicensing/OpenSource/MIT/`).
 2.  **Read the `README.md`:** Each topic's `README.md` file is the primary entry point. It provides the overview, explanations, and embedded visualizations.
 3.  **Analyze the Diagrams:** Study the Mermaid diagrams within the READMEs. Consider the flow, relationships, and key decision points they illustrate.
@@ -493,6 +538,18 @@ cd LegalLens
 ---
 
 ## Contributing
+
+<div align="center">
+	<img alt="Loading..." src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzU3Nnp1dTJqNDhjczV2cm0yYmF2azU0MWNrMG42N3gyODgxbHJ0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRzQS5HXcEWM7du/giphy.gif"/>
+	<br/>
+	<blockquote>
+		<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
+		<br/>
+		<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+	</blockquote>
+</div>
+
+
 
 Contributions are essential to making `LegalLens` a comprehensive and valuable resource! We welcome additions, corrections, and improvements.
 We are working on the setup for this section. TBD.
@@ -514,6 +571,56 @@ We are working on the setup for this section. TBD.
 
 *Please adhere to the project's Code of Conduct (to be added).* A more detailed `CONTRIBUTING.md` file with style guides and specific requirements is planned. -->
 
+
+---
+
+## 🚀 Project Current Activities
+
+
+<div align="center">
+	<img alt="Loading..." src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlkMGEyMnltbXYxMDllcXB5ajAwdWIybnd0YTdzMHR1OGFsaTBmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Hb9ZOcpNPv4H4Tgje/giphy.gif"/>
+	<br/>
+	<blockquote>
+		<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
+		<br/>
+		<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+	</blockquote>
+</div>
+
+
+<div align="left"><a name="project-current-activities"></a>
+
+<details open>
+<summary>Click to show/hide more on recent activities of this project </summary>
+
+> powered by [OSS Insight](https://ossinsight.io)
+<!-- All the diagrams below are made with [OSS Insight](https://ossinsight.io/) -->
+
+| :bar_chart: Widget & Description | :art: Snapshot (Light Mode) |
+|---|---|
+| Active Contributors :technologist: of CongLeSolutionX/LegalLens - Last 28 days | ![Active Contributors of CongLeSolutionX/LegalLens - Last 28 days](https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=946382201&limit=30&image_size=auto&color_scheme=light) <br/> :link: [View Full Report :mag:](https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=946382201&limit=30) |
+| Pushes :arrow_up: and Commits :writing_hand: of CongLeSolutionX/LegalLens | ![Pushes and Commits of CongLeSolutionX/LegalLens](https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=946382201&image_size=auto&color_scheme=light) <br/> :link: [View Full Report :mag:](https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=946382201) |
+| Pull Request Size :straight_ruler: of CongLeSolutionX/LegalLens | ![Pull Request Size of CongLeSolutionX/LegalLens](https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=946382201&image_size=auto&color_scheme=light) <br/> :link: [View Full Report :mag:](https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month?repo_id=946382201) |
+| Pull Request Lifecycle :arrows_counterclockwise: of CongLeSolutionX/LegalLens | ![Pull Request Lifecycle of CongLeSolutionX/LegalLens](https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=946382201&image_size=auto&color_scheme=light) <br/> :link: [View Full Report :mag:](https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged?repo_id=946382201) |
+| Lines of Code Changes :computer::scroll: of CongLeSolutionX/LegalLens | ![Lines of Code Changes of CongLeSolutionX/LegalLens](https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=946382201&image_size=auto&color_scheme=light) <br/> :link: [View Full Report :mag:](https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=946382201) |
+| Commits Time Distribution :alarm_clock::date: of CongLeSolutionX/LegalLens | ![Commits Time Distribution of CongLeSolutionX/LegalLens](https://next.ossinsight.io/widgets/official/analyze-repo-commits-time-distribution/thumbnail.png?repo_id=946382201&period=last_1_year&zone=0&image_size=auto&color_scheme=light) <br/> :link: [View Full Report :mag:](https://next.ossinsight.io/widgets/official/analyze-repo-commits-time-distribution?repo_id=946382201&period=last_1_year&zone=0) | 
+
+</details>
+
+</div>
+
+
+
+<div align="center">
+	<img alt="Loading..." src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVycnpkaWQ4dmg3MnF4Z2ZqMmgzdXB4ZWo3N21mbW5hdXJkcW44aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sk6yL9EGVeAcE/giphy.gif"/>
+	<br/>
+	<blockquote>
+		<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
+		<br/>
+		<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+	</blockquote>
+</div>
+
 ---
 
 ## License
@@ -521,7 +628,8 @@ We are working on the setup for this section. TBD.
 This project utilizes a dual-licensing approach:
 
 *   **Code & Diagram Sources:** All `Mermaid.js` source files (`.mmd`) and any other code files are licensed under the [**MIT License**](LICENSE). This allows for broad reuse and modification of the visualization code itself.
-*   **Documentation & Explanatory Text:** All textual content, including `README.md` files and explanations accompanying the diagrams, is licensed under the [**Creative Commons Attribution 4.0 International License (CC BY 4.0)**](LICENSE-CC-BY). This requires attribution if you reuse or adapt the textual content.
+*   **Documentation & Explanatory Text:** All textual content, including `README.md` files and explanations accompanying the diagrams, is licensed under the [**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA-4.0)**](LICENSE-CC-BY-SA-4.0). This requires attribution if you reuse or adapt the textual content.
+
 
 ---
 
@@ -542,6 +650,19 @@ This project utilizes a dual-licensing approach:
 *   **GitHub Markdown Guide:** [https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 *   **Mermaid.js Official Documentation:** [https://mermaid.js.org/](https://mermaid.js.org/)
 *   **Mermaid Live Editor (for testing diagrams):** [https://mermaid.live/](https://mermaid.live/)
+
+----
+
+
+<div align="center">
+	<img alt="Loading..." src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnMyZGVnY2JyMWRlNGs5ZjJtM25rdnJpdndraWVydHZtdDN3cjFhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"/>
+	<br/>
+	<blockquote>
+		<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
+		<br/>
+		<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+	</blockquote> 
+</div>
 
 ----
 

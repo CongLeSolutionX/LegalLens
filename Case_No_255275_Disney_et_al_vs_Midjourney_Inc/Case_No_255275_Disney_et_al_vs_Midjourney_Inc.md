@@ -13,7 +13,6 @@ source: https://media.npr.org/assets/artslife/movies/misc/midjourney.pdf
 > This is a working draft in progress
 > 
 > ![Loading...](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZ3ZjViYXZxNm1xN3B6c2pmcGEzY2NpeGxpdzlsa2lnNHk5a25tdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tNLgcdlKvJe5a/giphy.gif)
->
 > gif image is provided by [Giphy](https://giphy.com)
 > 
 > ⚠️🏗️🚧🦺🧱🪵🪨🪚🛠️👷
@@ -21,13 +20,13 @@ source: https://media.npr.org/assets/artslife/movies/misc/midjourney.pdf
 
 ----
 
-
-
+<!--
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhqcXdrdm5hcXFkbDU4MG44YWgxbjJuanY1dXRzcWViMHVjOTNzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiiATPwmySN6on0cHR/giphy.gif
+-->
 
 # Disney et al. vs. Midjourney, Inc - Case No. 25-5275
 <details open>
 <summary>Click to show/hide the full disclaimer.</summary>
-   
 > <ins>📢 **Disclaimer** 🚨</ins>
 >
 > This document contains my personal notes on the topic,
@@ -54,9 +53,7 @@ version: "1.0"
 license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
-  layout: elk
   theme: base
-  look: handDrawn
 ---
 %%%%%%%% Mermaid version v11.4.1-b.14
 %%%%%%%% Available curve styles include the following keywords:
@@ -79,21 +76,35 @@ config:
   }
 }%%
 flowchart TD
-    A["<strong>Case 2:25-cv-05275</strong><br/>U.S. District Court, Central District of California"] --> B{Copyright Infringement Lawsuit};
-    B --> C[Plaintiffs: <br/>Disney Enterprises, Inc.<br/>Marvel Characters, Inc.<br/>MVL Film Finance LLC<br/>Lucasfilm Ltd. LLC<br/>Twentieth Century Fox Film Corp.<br/>Universal City Studios Productions LLLP<br/>DreamWorks Animation L.L.C.];
-    B --> D[Defendant: <br/>Midjourney, Inc.];
-    C --> E{Claims};
-    D --> E;
-    E --> F[Direct Copyright Infringement];
-    E --> G[Secondary Copyright Infringement];
-    F --> H["Under Copyright Act<br/>(17 U.S.C. § 101 et seq.)"];
-    G --> H;
-    H --> I["Demand for Jury Trial"];
+    A["<strong>Case 2:25-cv-05275</strong><br/>U.S. District Court, Central District of California"] --> B{"Copyright Infringement Lawsuit"}
+    B --> C["Plaintiffs: <br/>Disney Enterprises, Inc.<br/>Marvel Characters, Inc.<br/>MVL Film Finance LLC<br/>Lucasfilm Ltd. LLC<br/>Twentieth Century Fox Film Corp.<br/>Universal City Studios Productions LLLP<br/>DreamWorks Animation L.L.C."]
+    B --> D["Defendant: <br/>Midjourney, Inc."]
 
-    style A fill:#f9f2,stroke:#333,stroke-width:2px;
-    style C fill:#A226,stroke:#333,stroke-width:2px;
-    style D fill:#A226,stroke:#333,stroke-width:2px;
-    style E fill:#AD86,stroke:#333,stroke-width:2px;
+%% TODO: MORE RESEARCH ON THE FOLLOWING
+%% M@{ img: "https://avatars.githubusercontent.com/u/61396273?s=200&v=4", label: "Midjourney, Inc.", pos: "b", w: 200, h: 150, constraint: "off" }
+%% M@{ img: "https://docs.midjourney.com/hc/article_attachments/32084281099149", label: "Midjourney, Inc.", pos: "b", w: 200, h: 150, constraint: "off" }
+
+%% https://spiderman-animated.fandom.com/wiki/Marvel_Characters,_Inc.
+%% https://trademarks.justia.com/owners/marvel-characters-inc-26695/
+%% https://trademarks.justia.com/company/disney/
+%% https://trademarks.justia.com/owners/disney-enterprises-inc-11601/
+%% https://www.avid.wiki/Lucasfilm_Ltd.
+%% https://www.20thcenturystudios.com/
+%% https://www.universalstudios.com/
+
+
+    C --> E{"Claims"}
+    D --> E
+    E --> F["Direct Copyright Infringement"]
+    E --> G["Secondary Copyright Infringement"]
+    F --> H["Under Copyright Act<br/>(17 U.S.C. § 101 et seq.)"]
+    G --> H
+    H --> I["Demand for Jury Trial"]
+
+    style A fill:#f9f2,stroke:#333,stroke-width:2px
+    style C fill:#A226,stroke:#333,stroke-width:2px
+    style D fill:#A226,stroke:#333,stroke-width:2px
+    style E fill:#AD86,stroke:#333,stroke-width:2px
 ```
 
 **Key Legal Statutes Invoked:**
@@ -504,7 +515,7 @@ mindmap
 	*   17 U.S.C. § 505 (Costs and Attorney's Fees)
 	*   17 U.S.C. § 502 (Injunctive Relief)
 *   **Articles & Online Sources (as cited by filename, with provided links):**
-	*   Monge, Jim Clyde. "Midjourney Finally Releases V7 Image Model." Medium (Apr. 7, 2025). `https://generativeai.pub/midjourney-finally-releases-v7-image-model-e07455e60f57` (Footnote 1)
+	*   ~Monge, Jim Clyde. "Midjourney Finally Releases V7 Image Model." Medium (Apr. 7, 2025). `https://generativeai.pub/midjourney-finally-releases-v7-image-model-e07455e60f57` (Footnote 1)~  - No longer public accessible
 	*   Salkowitz, Rob. "Midjourney Founder David Holz on the Impact of AI on Art, Imagination and the Creative Economy." Forbes (Sept. 16, 2022). `https://www.forbes.com/sites/robsalkowitz/2022/09/16/midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy/` (Footnotes 2, 6)
 	*   Wiggers, Kyle. "Midjourney Says It's 'Getting Into Hardware'." TechCrunch (Aug. 28, 2024). `https://techcrunch.com/2024/08/28/midjourney-says-its-getting-into-hardware/` (Footnote 3)
 	*   Kumar, Naveen. "Midjourney Statistics 2025: Users & Revenue Data." DemandSage (Dec. 31, 2024). `https://www.demandsage.com/midjourney-statistics/` (Footnote 3)
@@ -518,7 +529,7 @@ mindmap
 		*   gdspaz, Deadpool and Wolverine hanging out. `https://www.reddit.com/r/midjourney/comments/13h3fd0/deadpool_and_wolverine_hanging_out/` (Footnote 11)
 		*   GremlinBobby, The Life of Shrek Beyond the Swamp. `https://www.reddit.com/r/midjourney/comments/180c179/the_life_of_shrek_beyond_the_swamp/` (Footnote 12)
 		*   Eon_Flux_139, Deadpool. `https://www.reddit.com/r/midjourney/comments/1esdjzk/deadpool/` (Footnote 13)
-		*   SmirkingDesigner, Frozen. `https://www.reddit.com/r/midjourney/comments/1fwkjhe/frozen/` (Footnote 14)
+		*   ~SmirkingDesigner, Frozen. `https://www.reddit.com/r/midjourney/comments/1fwkjhe/frozen/` (Footnote 14)~ - No longer public accessible
 		*   RainMan915, Darth Vader. `https://www.reddit.com/r/midjourney/comments/198z4ad/darth_vader/` (Footnote 15)
 		*   alanskimp, Yoda. `https://www.reddit.com/r/midjourney/comments/10xpm3j/yoda/` (Footnote 16)
 		*   filoni, Some of my fave Marvel generations! [prompt in comment]. `https://www.reddit.com/r/midjourney/comments/xeqpi3/some_of_my_fave_marvel_generations_prompt_in/#lightbox` (Footnote 17)
