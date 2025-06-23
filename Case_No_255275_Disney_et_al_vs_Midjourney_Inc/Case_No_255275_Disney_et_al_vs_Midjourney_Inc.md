@@ -12,8 +12,7 @@ source: https://media.npr.org/assets/artslife/movies/misc/midjourney.pdf
 > 
 > This is a working draft in progress
 > 
-> ![Loading...](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9ocnY5eGxha3NmbmpqOGc3dGV5eDc5b21wd3VoczJ0a3hlamFleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U72VLCEqPY3MJNA0Jx/giphy.gif)
-> 
+> ![Loading...](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZ3ZjViYXZxNm1xN3B6c2pmcGEzY2NpeGxpdzlsa2lnNHk5a25tdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tNLgcdlKvJe5a/giphy.gif)
 > gif image is provided by [Giphy](https://giphy.com)
 > 
 > ⚠️🏗️🚧🦺🧱🪵🪨🪚🛠️👷
@@ -26,18 +25,21 @@ https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhqcXdrdm5hcXFkbDU4MG44YWgxbj
 -->
 
 # Disney et al. vs. Midjourney, Inc - Case No. 25-5275
+<details open>
+<summary>Click to show/hide the full disclaimer.</summary>
 > <ins>📢 **Disclaimer** 🚨</ins>
 >
 > This document contains my personal notes on the topic,
 > compiled from publicly available documentation and various cited sources.
-> The materials are intended for educational purposes, personal study, and reference.
+> The materials are intended for 👨‍🎓 <ins>educational purposes</ins> 👨‍🎓 (<ins>:trollface:sometimes, entertainment purposes:trollface:</ins>), 📖 <ins> personal study </ins> 📖, and 🔖 <ins> reference </ins> 🔖.
 > The content is dual-licensed:
 > 1. **MIT License:** Applies to all code implementations (Swift, Mermaid, and other programming languages).
 > 2. **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0):** Applies to all non-code content, including text, explanations, diagrams, and illustrations.
+
+</details>
+
+
 ---
-
-
-----
 
 ## 🏛️ Case Overview: Disney et al. vs. Midjourney, Inc
 
