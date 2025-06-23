@@ -12,7 +12,7 @@ source: https://cdn.vsassets.io/v/M146_20190123.39/_content/Microsoft-Visual-Stu
 > 
 > This is a working draft in progress
 > 
-> ![Loading...](https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-and-stack-of-licenses.png)
+> ![Loading...](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHE5ZjVyeHh2MXFyMzV5Znp4Yzc1aTAzaWYxYjNyb3dzMWZoZTFtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wjEQMRyynvrdx5g7Mn/giphy.gif)
 >
 > gif image is provided by [Giphy](https://giphy.com/gifs/spongebob-spongebob-squarepants-season-6-xT3i1dp3WjezioIadi)
 > 
