@@ -114,10 +114,11 @@ Whether you are a developer ensuring compliance, a user seeking to understand yo
 ## The Challenge & Our Approach
 
 <div align="center">
-	<img alt="Loading..." src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJnbWV1MTJkNnoxbXY1MDY4b3NwZTZhc2k0ZHNzanJ5eWdhMGFzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gNzDiRiZS3SXS/giphy.gif"/>
+	<img alt="The Challenge" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJnbWV1MTJkNnoxbXY1MDY4b3NwZTZhc2k0ZHNzanJ5eWdhMGFzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gNzDiRiZS3SXS/giphy.gif"/>
+	<br/>
+	<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
 	<br/>
 	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
- 
 </div>
 
 Traditional legal documents, while precise, are often characterized by dense text, specialized jargon, and complex sentence structures, making them challenging to parse quickly and accurately. `LegalLens` addresses this by offering a visual interpretation layer, designed to help you:
@@ -133,7 +134,9 @@ Traditional legal documents, while precise, are often characterized by dense tex
 ### Our Method
 
 <div align="center">
-	<img alt="Loading..." src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtnMnpjYmx3ODM3ajV2djZvang0cDQyZ3k4ZHhmZWRqem9rMTg2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oNG0BcTCRvgeIsyAiE/giphy.gif"/>
+	<img alt="Our Method" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtnMnpjYmx3ODM3ajV2djZvang0cDQyZ3k4ZHhmZWRqem9rMTg2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oNG0BcTCRvgeIsyAiE/giphy.gif"/>
+	<br/>
+	<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
 	<br/>
 	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
 </div>
@@ -487,6 +490,8 @@ graph TD
 <div align="center">
 	<img alt="Loading..." src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBnMmh5a3VrOG92cjR5N3FneXphM2M5dTNtOXFxc2FnNDZjdXQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEv7v51FEI3L54jpr/giphy.gif"/>
 	<br/>
+	<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
+	<br/>
 	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
 </div>
 
@@ -511,6 +516,8 @@ cd LegalLens
 <div align="center">
 	<img alt="Loading..." src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk5b3R5bXBtZjRza2h3d2gyb2t2aWd3NGE3ZDhlcWs0bXUydnhzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mSXSC0vivvygw/giphy.gif"/>
 	<br/>
+	<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
+	<br/>
 	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
 </div>
 
@@ -528,6 +535,8 @@ cd LegalLens
 
 <div align="center">
 	<img alt="Loading..." src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzU3Nnp1dTJqNDhjczV2cm0yYmF2azU0MWNrMG42N3gyODgxbHJ0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRzQS5HXcEWM7du/giphy.gif"/>
+	<br/>
+	<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
 	<br/>
 	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
 </div>
@@ -563,6 +572,8 @@ We are working on the setup for this section. TBD.
 <div align="center">
 	<img alt="Loading..." src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlkMGEyMnltbXYxMDllcXB5ajAwdWIybnd0YTdzMHR1OGFsaTBmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Hb9ZOcpNPv4H4Tgje/giphy.gif"/>
 	<br/>
+	<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
+	<br/>
 	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
 </div>
 
@@ -593,10 +604,10 @@ We are working on the setup for this section. TBD.
 <div align="center">
 	<img alt="Loading..." src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVycnpkaWQ4dmg3MnF4Z2ZqMmgzdXB4ZWo3N21mbW5hdXJkcW44aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sk6yL9EGVeAcE/giphy.gif"/>
 	<br/>
+	<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
+	<br/>
 	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
 </div>
-
-
 
 ---
 
@@ -633,6 +644,8 @@ This project utilizes a dual-licensing approach:
 
 <div align="center">
 	<img alt="Loading..." src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnMyZGVnY2JyMWRlNGs5ZjJtM25rdnJpdndraWVydHZtdDN3cjFhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"/>
+	<br/>
+	<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
 	<br/>
 	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
  
