@@ -116,9 +116,11 @@ Whether you are a developer ensuring compliance, a user seeking to understand yo
 <div align="center">
 	<img alt="The Challenge" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJnbWV1MTJkNnoxbXY1MDY4b3NwZTZhc2k0ZHNzanJ5eWdhMGFzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gNzDiRiZS3SXS/giphy.gif"/>
 	<br/>
-	<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
-	<br/>
-	<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+	<blockquote>
+		<em>The scene is from movie <b>The Matrix</b><br/><a href="https://www.warnerbros.com/movies/matrix">The Matrix. United States: Warner Bros., 1999.</a></em>
+		<br/>
+		<em>gif image is provided by <a href="https://giphy.com">Giphy</a></em>
+	</blockquote>
 </div>
 
 Traditional legal documents, while precise, are often characterized by dense text, specialized jargon, and complex sentence structures, making them challenging to parse quickly and accurately. `LegalLens` addresses this by offering a visual interpretation layer, designed to help you:
