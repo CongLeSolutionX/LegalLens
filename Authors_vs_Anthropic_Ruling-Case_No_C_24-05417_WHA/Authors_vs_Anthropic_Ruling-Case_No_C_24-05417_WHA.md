@@ -25,7 +25,7 @@ source_2:
 
 
 
-# CHANGE_ME
+# Authors vs Anthropic Ruling - Case No. C 24-05417 WHA
 <details open>
 <summary>Click to show/hide the full disclaimer.</summary>
    
