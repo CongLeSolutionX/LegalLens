@@ -13,7 +13,7 @@ source_2:
 > 
 > This is a working draft in progress
 > 
-> ![Loading...](https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-and-stack-of-licenses.png)
+> ![Loading...](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBydW5sY2xwYnFhbDVvYm5qZ2tndHBhazljM3RnZDA0dWNxMjBieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYNvk90PekLMKXe/giphy.gif)
 >
 > gif image is provided by [Giphy](https://giphy.com/gifs/spongebob-spongebob-squarepants-season-6-xT3i1dp3WjezioIadi)
 > 
